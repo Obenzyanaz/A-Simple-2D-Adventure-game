@@ -1,0 +1,882 @@
+fileFormatVersion: 2
+guid: 4baa27b1515206b4ba93893bc27db523
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 194
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e9421c995d0df46aa8e4ee9c125cbc
+      internalID: 23871604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 226
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3354dc316ad8bbb459d504200a934722
+      internalID: 1646804072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 194
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9113306cef2c1bf428e2aea19bf3353a
+      internalID: -1584690720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_3
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 226
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79fbf3955fd5104e842827fd444a918
+      internalID: 597752444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_4
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 194
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cda6364a2de0f4babc7740f41c619c
+      internalID: 1268492857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 226
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec1692d2fcafdb4281789193a3eca07
+      internalID: 738385695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_6
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 194
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be96593ffc5c8254686133ce7a9eb075
+      internalID: -560358711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 226
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fe6dfccac68914082debf2cc3eff37
+      internalID: -968889306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 226
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fe7550eaa7c1343b5fe3b26d911b24
+      internalID: -142033514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 162
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dbf9fe56133d84aa8119a467e42d00
+      internalID: -94970470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_17
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 162
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d48aff7b13fed744acec804ed5b8143
+      internalID: -803374276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 162
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c23ea25f4a22543b31baca0a294ba3
+      internalID: -19073513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 162
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1bd2b8b49f4674792804e9ca48be93
+      internalID: -1056852191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bba6e83c5090e74da62771570387604
+      internalID: 763423322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_23
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 130
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97a3fd41e1f857428422c8faaa54338
+      internalID: 1042338639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 130
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa97e1a38f7f55e4a8e99166a2e3093c
+      internalID: -10206853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 130
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5dd457db7ee2f4b82a48e31470b513
+      internalID: -337762811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 98
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317eca0728f4aa14b8b537f27d515844
+      internalID: 799900645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_30
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 98
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c87e1ec372ffb49ac05012c6dd4243
+      internalID: -1919216107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_31
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 98
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de3ea592a4bf5c4c9c01175dfbd95dd
+      internalID: -1834161333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_32
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 98
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7cb828ffcadf747ad884951d2ac119
+      internalID: 2066903706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_34
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 66
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393f24561eeaa2741b4cfa6992cef0c5
+      internalID: 952198474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_35
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 66
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225c3dd5dc38c14428f51a7a05e4cf54
+      internalID: 309914789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_37
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 66
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e63b5eab7300944b0d8716ac5ac55e
+      internalID: 865267519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_38
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 66
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e423be680162c409bc5692f8e4b198
+      internalID: 945245072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_41
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 34
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830462b9f5faa2b48a0e81c7c85a7d8a
+      internalID: -1986333861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_42
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 34
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8194423a1ae1d6e47bdedf50f4391266
+      internalID: -490995707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_43
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 34
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83039769907393544adcbabd78b0a7a3
+      internalID: -1084657310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_47
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb1750bab5147b4c8b292ff7349c8d9
+      internalID: 963159263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_20
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 34
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1dbd8fce2b911245abc4cd8770a6697
+      internalID: -428634590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_21
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7518feec44ed546a7f8c2001867ff6
+      internalID: -546401294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_26
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa3e6c725070e24a80b225eb68cfba7
+      internalID: -649285630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Shin Touhou Musou - Yukari Yakumo_27
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22801da75c583b49903e5b058b7b0a6
+      internalID: -522799716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_0: 23871604
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_1: 1646804072
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_10: -1304722793
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_11: -1203562672
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_12: -142033514
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_13: -1700254426
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_14: 2084118615
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_15: 1009999883
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_16: -94970470
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_17: -803374276
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_18: -19073513
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_19: -1056852191
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_2: -1584690720
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_20: -428634590
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_21: -546401294
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_22: 763423322
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_23: 1042338639
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_24: -10206853
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_25: -337762811
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_26: -649285630
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_27: -522799716
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_28: -137799067
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_29: 799900645
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_3: 597752444
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_30: -1919216107
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_31: -1834161333
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_32: 2066903706
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_33: -174373788
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_34: 952198474
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_35: 309914789
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_36: -298826178
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_37: 865267519
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_38: 945245072
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_39: 296090838
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_4: 1268492857
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_40: -205796859
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_41: -1986333861
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_42: -490995707
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_43: -1084657310
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_44: 872400041
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_45: -1761952078
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_46: -1144602765
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_47: 963159263
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_48: -339534343
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_5: 738385695
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_6: -560358711
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_7: -968889306
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_8: -867336130
+      PC Computer - Shin Touhou Musou - Yukari Yakumo_9: 440293620
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

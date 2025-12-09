@@ -1,0 +1,2612 @@
+fileFormatVersion: 2
+guid: 9c44d88cad1d21746a0b5482895a9858
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1136
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cf25b8eac801e449183c5259974292
+      internalID: -2013003737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1134
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae009ee24086bb448ed1516b121f394
+      internalID: -757624433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1135
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cbb09126a464a4c96c601bb3c37298
+      internalID: 1924850649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1133
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba18c349657c954488a427aaef18116e
+      internalID: -1612894665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_4
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1133
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8be1d34b4f6c14b8625f12cf4a72fc
+      internalID: 908391645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_5
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1131
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9cc7f2c32772944bf13883243abf5f
+      internalID: -1597772560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_6
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1131
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0601b3c138db6734b809d90aaeeefddd
+      internalID: -1890474378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1136
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3ec91df6899f544b7204b2d7c9fcec
+      internalID: 1290495799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1046
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41635b428e29d642a98570865c49c39
+      internalID: -561650878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1044
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a76a09ab16f45f43b17eeaa2348b3d0
+      internalID: 1672224667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1040
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebab5bc1f723d91469766de785b2ec9e
+      internalID: 133039407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_13
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1036
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1da29aeadb37c41857a10555fd7165
+      internalID: -2081249146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_14
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1032
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9051538b2b41bc04fb58ddc8f5393525
+      internalID: -1111589877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_15
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1031
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73d680b6c3732341a37bf94251f39ff
+      internalID: 1583509203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_16
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1024
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fd19cebcc2875479fb8fa14ce7ef2a
+      internalID: 2031841714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_17
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 941
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232b462fa436fc44b92cf0a995d2571b
+      internalID: 206306630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 941
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5054c44ccff4a4796797aafe99eb24
+      internalID: 1831212915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_19
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 940
+        width: 74
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe4f07be369f2a4ba9847ad84b2ec90
+      internalID: 2104651922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 939
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130b1503de6ac5c46a59b5286d54d4b8
+      internalID: -2055622872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_21
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 996
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d5705a54a5bc249ae9d0c27b3c4caa
+      internalID: 1256769458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_22
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 987
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc4f37032cf31c4bb190a2471330de2
+      internalID: 357534498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_24
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 941
+        width: 77
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dde6832740a1e4419f03efc9e12076b
+      internalID: -734550317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_25
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 985
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baacf40d7939c34c887f4d273260877
+      internalID: -283901762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_26
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 942
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2970328325c630d458841ec633e65151
+      internalID: -532061942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_27
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 941
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faf13aa05cbf7a46acaae94aedd3726
+      internalID: 771315342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_28
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 962
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3f0b4f46e5c364ab98c9591ab9424f
+      internalID: -1444061209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_29
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 970
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efcb2fcf9d84664382d32e18c2717fa
+      internalID: 1512504709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 877
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955f213211e8f214a8e94d22391b795d
+      internalID: -1880513627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_35
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 796
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f52d0d2fc92c64fadfebaa7c7a6253
+      internalID: 1058889602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_36
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 794
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ace671acf634a43b9903af20c09bae
+      internalID: 793252079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_37
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 790
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6647369fdf94ae40b22c60af370c045
+      internalID: 1995753075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_38
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 786
+        width: 85
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd97bbe93e10a1a43852e8842c795235
+      internalID: 1815883842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_39
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 784
+        width: 94
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af37c93568fd934e8ff56b8ad1989fd
+      internalID: -1676474599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_40
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 702
+        width: 94
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880d0115420a01a46b29e393455d357a
+      internalID: -1888564298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_41
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 710
+        width: 94
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54abc414e30f8f542959a622992559ee
+      internalID: -110283596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_42
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 704
+        width: 94
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35c117abf027e2488516f21f1ae5405
+      internalID: -870438443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_43
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 702
+        width: 94
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f81da68ef7dab478e3801d1c92e8f4
+      internalID: -714834374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_44
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 707
+        width: 94
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94bc1889131c0145b1f4bcf9b83bb04
+      internalID: -1516158069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_45
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 619
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b897f008fe89474c82ed34320c2cf10
+      internalID: -633647464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_46
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 623
+        width: 99
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0376dd509ecad1438efbabcb0b56bca
+      internalID: -228495323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_47
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 623
+        width: 102
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c596be4cafc4d564eb001dcbcb9974d6
+      internalID: 266091228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_48
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 627
+        width: 98
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c145f50e8c4064597893d51daacba7
+      internalID: -149559189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_49
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 625
+        width: 98
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11089a03427f2e48995fc01d4da3f4f
+      internalID: 857666696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_50
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 549
+        width: 100
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d265e465a52f2b9459608427ad98e335
+      internalID: -927863776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_51
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 534
+        width: 94
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f03a856e0ca5643b21c6d4b0050b23
+      internalID: 263770909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_52
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 531
+        width: 94
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d583c368486f747873211dadeba6f7
+      internalID: -2064871768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_53
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 531
+        width: 94
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78aedcc655599b4c86e2ea17c8ab5db
+      internalID: -367203317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_54
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 468
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bcfdfc4c4dfa048a8e747973024ecb
+      internalID: -623610442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_55
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 475
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1952d37bddd76c745aff025525b4f371
+      internalID: 1355849139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_56
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 463
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14bb4bc8c57ca646a98ca3afcd46c84
+      internalID: 1050797023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_57
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 446
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0af3aabd1de6047a6276a88d48bc32
+      internalID: -604681199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_58
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 425
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4cdce25806874419a48106596872c1
+      internalID: -1128979600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_59
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 427
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da00a240d9b54f04cabb5968ddfe392b
+      internalID: -2054003051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_60
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 414
+        width: 87
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd01f12109a9404a94677c3c284c72a
+      internalID: 1156673153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_61
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 449
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71ed3de5a3aaf14884737f1e59c035b
+      internalID: -1513470211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_62
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 416
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c00d1ff257ed5479250815c6748a47
+      internalID: -551781238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_63
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 461
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b6fbf0bf35e7e42a04c2c590639654
+      internalID: -1643435383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_64
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 450
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1bbb93b4f062647a520d4ce5199214
+      internalID: 1080369633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_65
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 416
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2b469624cd8f4498461aca46beec0d
+      internalID: -1005309168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_66
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 456
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53f96e191f080a47af1521d2c6a3acc
+      internalID: -975824950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_67
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 467
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967ea219b0b69c54688745b75f31ac6b
+      internalID: -164352971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_68
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 468
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6bcb4b453f4fa4a80840273da50006
+      internalID: 388236310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_69
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 453
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42863f25d35dded4aa8d00daf109e47f
+      internalID: 399790700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_70
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 445
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9bf08765385c74aa294c58ad9c6079
+      internalID: 1934766312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_71
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 441
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b52334b4db0b24995584c8d343efec
+      internalID: 116224495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_72
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 430
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d6ce40e93215d47b6f8af3c69f69d3
+      internalID: -274772094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_73
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 444
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a51104c3e16d924fa4a987601eeff53
+      internalID: 1786316719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_74
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 426
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95cb0583feae5440ab3fa7e8deb2352
+      internalID: -1861652913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_75
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 423
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bceecf821df6ce04d8b19f5ed07a3f77
+      internalID: -130128894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_76
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 431
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431e50d71e1907e4cb0ba01417ea60b4
+      internalID: -1289945496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_77
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 429
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5ba9916abfbd5488713b9d619fe772
+      internalID: -736699853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_78
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 427
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87de6dab8634a4a4c9a200c0acf850c5
+      internalID: -865070858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_79
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 422
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5fbdfaf6a1c15499957c59013d15ae
+      internalID: -1319583927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_80
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 376
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4075120ee851d747ae7c6d587ba4351
+      internalID: -1754388998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_81
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 384
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897fb80263bb337488e6bf35e00ac699
+      internalID: -800492120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_82
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 313
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fed5393f79702479550ef1382a852c
+      internalID: -1017537785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_83
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 374
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5b139cb2036964fbb69d8f6a6de69c
+      internalID: -1593288888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_84
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 381
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324c91b085bbc96449489153acf44ac1
+      internalID: 580651409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_85
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 372
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c2e1b1a5aedfe458a3ae0f02c14740
+      internalID: -1303509627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_86
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 374
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb6f066c8c33da4a8889ba667522518
+      internalID: -1328177561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_87
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 374
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ffcfa52d3d79841850f231de8ccc9f
+      internalID: -1545216071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_88
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 313
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025229160bd7a984aad672b34e4ebb57
+      internalID: -842563626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_89
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 364
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6cf13a3eb5eed4b8fe2266c603063d
+      internalID: -1780621122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_90
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 313
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c811daaf1b13844823682ff9055955
+      internalID: 1908529184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_91
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 366
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ee41549f5ca6044a36a06d44b42036
+      internalID: 89513077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_92
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 366
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ed2b41377097840924d718b76e4f69
+      internalID: 362816703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_93
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 367
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6292abb1d20babe46a441456e51e5956
+      internalID: 817114387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_94
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 371
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7665a9975bb7194684e7e7252c7e1ab
+      internalID: 1503251599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_95
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 315
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f65662b1a15944687a4c80c4769bf4
+      internalID: 2078188483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_96
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 329
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5138e239c7e70419a5808ab47696e5
+      internalID: 353751147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_97
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 323
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096a44c097715c5488ea2896d5cdd29e
+      internalID: -1782004828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_98
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 320
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37a8b137343c5740a401b847dac9750
+      internalID: -1510285377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_99
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 331
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb637ce41cf22b419def6459a666c56
+      internalID: 517242454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_100
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 331
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4779e4e386dfcaf4d91a652252dea700
+      internalID: 1068709928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_101
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 336
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7e076f48afe0046b5ad8d1e091394e
+      internalID: 854636091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_102
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 332
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d8af31d1acaac43bc69d1a89fc792f
+      internalID: 1624980838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_103
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 341
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71766fdc7a0247e41a1b5c77b3fd70ff
+      internalID: 433540258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_104
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 342
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6a35d338810274c97f371dfd602470
+      internalID: -1138507938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_105
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 320
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7fb558d010027458c053d5209cb225
+      internalID: -1311648767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 242
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd274a9a6ac42c84ebb74a6c1e49ede3
+      internalID: -1948261464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_107
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 225
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4e4483740f04249bf06a2676be8fbe
+      internalID: 2130400818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_108
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 227
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c764651f6e1455840a4110af80bf9def
+      internalID: 662516242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_109
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 230
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81c328275cf9ff4294673b9d47926f0
+      internalID: 667585107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_110
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 229
+        width: 75
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586d50774d6018642b890837711f95c3
+      internalID: 892774608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_111
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 229
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6511b9b65c8154e8b9e6687907d767
+      internalID: -2058140350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_112
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 225
+        width: 89
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6956b959d21c0d41b30cca408e8dc96
+      internalID: -825257299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_113
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 232
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f314c6496a93d40b0a0544b6a99d8c
+      internalID: 2132719811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_114
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 262
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51678f84046adaf4299f25d5abb488de
+      internalID: 609695097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 877
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4637048893eff3344973cab186ff6b44
+      internalID: 1786876241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_7
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 106
+        width: 80
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b2032693d9fb1478327a9fc18562c9
+      internalID: 493876070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 113
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3ac3b3e7aacb842859c52fb06e874e
+      internalID: 736644142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_23
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 104
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10826eca5f705f7448daff197afabb6a
+      internalID: 1334838603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_32
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 105
+        width: 80
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799ffdf896ffbfd43be0f4bf61189366
+      internalID: 1292804163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_0: -2013003737
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_1: -757624433
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_10: -561650878
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_100: 1068709928
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_101: 854636091
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_102: 1624980838
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_103: 433540258
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_104: -1138507938
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_105: -1311648767
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_106: -1948261464
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_107: 2130400818
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_108: 662516242
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_109: 667585107
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_11: 1672224667
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_110: 892774608
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_111: -2058140350
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_112: -825257299
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_113: 2132719811
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_114: 609695097
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_115: -813064611
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_116: 1305860436
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_117: 1832540572
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_118: -793179223
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_119: -1192754555
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_12: 133039407
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_120: 562674848
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_121: -459305084
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_122: 1525722169
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_123: -821279215
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_124: 1558226474
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_13: -2081249146
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_14: -1111589877
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_15: 1583509203
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_16: 2031841714
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_17: 206306630
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_18: 1831212915
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_19: 2104651922
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_2: 1924850649
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_20: -2055622872
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_21: 1256769458
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_22: 357534498
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_23: 1334838603
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_24: -734550317
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_25: -283901762
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_26: -532061942
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_27: 771315342
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_28: -1444061209
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_29: 1512504709
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_3: -1612894665
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_30: -1880513627
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_31: 1786876241
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_32: 1292804163
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_33: -1290563773
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_34: -2027882875
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_35: 1058889602
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_36: 793252079
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_37: 1995753075
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_38: 1815883842
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_39: -1676474599
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_4: 908391645
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_40: -1888564298
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_41: -110283596
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_42: -870438443
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_43: -714834374
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_44: -1516158069
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_45: -633647464
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_46: -228495323
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_47: 266091228
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_48: -149559189
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_49: 857666696
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_5: -1597772560
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_50: -927863776
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_51: 263770909
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_52: -2064871768
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_53: -367203317
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_54: -623610442
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_55: 1355849139
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_56: 1050797023
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_57: -604681199
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_58: -1128979600
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_59: -2054003051
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_6: -1890474378
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_60: 1156673153
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_61: -1513470211
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_62: -551781238
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_63: -1643435383
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_64: 1080369633
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_65: -1005309168
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_66: -975824950
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_67: -164352971
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_68: 388236310
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_69: 399790700
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_7: 493876070
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_70: 1934766312
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_71: 116224495
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_72: -274772094
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_73: 1786316719
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_74: -1861652913
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_75: -130128894
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_76: -1289945496
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_77: -736699853
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_78: -865070858
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_79: -1319583927
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_8: 1290495799
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_80: -1754388998
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_81: -800492120
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_82: -1017537785
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_83: -1593288888
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_84: 580651409
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_85: -1303509627
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_86: -1328177561
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_87: -1545216071
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_88: -842563626
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_89: -1780621122
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_9: 736644142
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_90: 1908529184
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_91: 89513077
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_92: 362816703
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_93: 817114387
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_94: 1503251599
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_95: 2078188483
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_96: 353751147
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_97: -1782004828
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_98: -1510285377
+      Game Boy Advance - Riviera_ The Promised Land - Enemies - Zombie Dragon_99: 517242454
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

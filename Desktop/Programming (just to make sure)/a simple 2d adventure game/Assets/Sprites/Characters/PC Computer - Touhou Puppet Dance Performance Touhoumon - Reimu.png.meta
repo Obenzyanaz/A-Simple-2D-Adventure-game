@@ -1,0 +1,3295 @@
+fileFormatVersion: 2
+guid: c2e3130d94a1aae479764132ab23df26
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 361
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec22f30b189af5a439cb7c43af834297
+      internalID: -1741211070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 362
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca6226eaacd1ad42a95826e09255bd5
+      internalID: 1664045753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 362
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ecea86f9d30dd4fabf3f47e3fba025
+      internalID: -1733291387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_3
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 361
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5cd634a5afe1c48b9f626dc4843cc5
+      internalID: -1564902085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 362
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a935f0b3f867f145b5ed0aaf4893c90
+      internalID: -631086858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 362
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f869f465a6c37de40b98423c64b9cd38
+      internalID: 706419879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 362
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1740798aee318e44cae97fa2b587d465
+      internalID: 551435524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_7
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 363
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073c6b6ab6a5af247aed6dde233e6297
+      internalID: -1905827094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 363
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b852348b97eb14baa52d2e5f196913
+      internalID: -1206406453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_9
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 361
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011e565ff5a72fd4c9a4206e9f432c29
+      internalID: 347361706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_10
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 362
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21af37a80b88ac4cbb8cb35bbad8a91
+      internalID: -1068001652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_11
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 362
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c462b83e0cc17a548a95a2fb346bf5ee
+      internalID: -1017316169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 329
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2503f0b28e9714f94d99f57ab5710f
+      internalID: -431969661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 330
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c14ce809a0dc4647ae7add9e6d970d1
+      internalID: 853772748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 330
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07380c649a7e1748b298a3ad950c033
+      internalID: 461444339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 329
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65bc3eea9d74f148a0791d8963d7720
+      internalID: 39402042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_16
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 330
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d334cd2acf19ae419de7e567477c3f3
+      internalID: -313127082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_17
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 330
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748d51a43c04e0549ab5179a50f77e43
+      internalID: 18328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_18
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 330
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3750e581a1b7a704c9428d08db7f0b29
+      internalID: -1744941748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_19
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 331
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ee23bfd15f87643bb7e5430227cf9c
+      internalID: 1667823964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 331
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97af2ab993647094a842e1fd10a37fa9
+      internalID: -1468241873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_21
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 329
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b572b11db8c96ff4585aefdb0897bb14
+      internalID: -1421794291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_22
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 330
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0ca5742ff51cc4883156330ab22c2b
+      internalID: -363399836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_23
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 330
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d50414fb8060b4a8c45bf4921705eb
+      internalID: -943083172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 297
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597395cc28c0d5440802ce949cb1d6cd
+      internalID: 910841410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 298
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ec3a625ecebc14680f0fa267a1aa00
+      internalID: 738565524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_26
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 298
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0460676cf150d6946932fd110d8e6878
+      internalID: 366107985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_27
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 297
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b644f6806b6b3714aabfa38bfc4f3b25
+      internalID: 446028204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_28
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 298
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5e3c73973245249863eb053573017e
+      internalID: -970892897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_29
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 298
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4df75fcaf2d8345a5cfaa2c9efaac5
+      internalID: 197770795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_30
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 298
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3348feff3fdaaf4c8ae0822899f5b50
+      internalID: -1593623838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_31
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 299
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad47d15e3d1cdc14a811e1fea8729c00
+      internalID: 617318417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_32
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 299
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883357f20f719a04aadd91ce68bbc8f4
+      internalID: 1381399532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_33
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 297
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820aa4b95756fcc4e8347df3ef3dea11
+      internalID: -839254507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_34
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 298
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c68a6a23c59104db8b81fa745808b9
+      internalID: -1883738432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_35
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 298
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bee045fee071944898fc92f59282be0
+      internalID: -699832998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 265
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b049033205cda4a94f0dfac9743f7c
+      internalID: 1414272341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_37
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 266
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3ce035000f12745bb50fa323dc8d37
+      internalID: 1659722795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_38
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 266
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0679fa29c6637b94aa40ff10bbea1ac8
+      internalID: 2781829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_39
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 265
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de6fad117a37af4ba16191997320f27
+      internalID: -953542063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_40
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 266
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2868b53fc52d7034abcfb3bdb0408b67
+      internalID: -2034091217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_41
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 266
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e344bbb7ea2dcd4abab788528278e14
+      internalID: -159016731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_42
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 265
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb13e80d87070942b999850a9b9d083
+      internalID: -1660478679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_43
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 266
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8ef01133f94814abe8b65c367ae224
+      internalID: 96530487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_44
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 266
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a532f200a4574d419af0de9ba2e89b7
+      internalID: 1628334318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_45
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 265
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c843fe3fe39a640b4518a9e9c8bf68
+      internalID: -146593186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_46
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 266
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fc27d195002714ea7a232387f7a600
+      internalID: -415184170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_47
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 266
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9ffe35fdb9fcc41b97f4bfc5ec255c
+      internalID: -185898465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_48
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 236
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97791196648537943a9c2009876fe70a
+      internalID: 247920428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_49
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 237
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226a0efefe3e9d542b9ffb0d48d9deb3
+      internalID: 1825387267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_50
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 237
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f0ece6a2507b14c8485e252f0dc59c
+      internalID: 784353198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_51
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 236
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f08e32adf3a83c4a8f90010a0465978
+      internalID: 1501249735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_52
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 237
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cddf0b3204d18469e3655f0e1c1167
+      internalID: 1761543581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_53
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 237
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c879f63577e62e14c8cd84b8ce1b9131
+      internalID: -844068501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_54
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 236
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54c564a30ee1fd478db13218d6c1579
+      internalID: -459258730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_55
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 237
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ff1a990bc50824383383dfb4da60d2
+      internalID: -162797977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_56
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 237
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be383ae0d86261e4e8e0a6989028f560
+      internalID: -10517139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_57
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 236
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdd79826c0d9c74b9c4cd8500ea7309
+      internalID: 777152639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_58
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 237
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f719ec12a6060214899f307e08345587
+      internalID: 2047278649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_59
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 237
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e1a72d9daf77445941870dfbd76d33
+      internalID: 1627738794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 205
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054e966d57cb21c4089d3e4391651887
+      internalID: -368437708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 206
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f240396c4dd1e8545b5ba355067e57d1
+      internalID: 1750135686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 206
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91514af713befa4493e2a4bc537a6c0
+      internalID: -2139709882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_63
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 205
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33726a02d9ca4034fbc8c8365410d7fe
+      internalID: 511970396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_64
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 206
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c928d04629f038b4a844e5b852f27dea
+      internalID: 1916840921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_65
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 206
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7997ea43649d849a852e1dc8cdcb17
+      internalID: 959225491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_66
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 205
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbe07749721c6940944a04cfeb84b74
+      internalID: -2079941010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_67
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 206
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91569857c1d210c48b2c00fcca413e7c
+      internalID: -765224395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_68
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 206
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fa11b6374d9744fb55c691f4fdf99c
+      internalID: -1266343482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_69
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 205
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb0bad1bcab7ab47b61f04d14703cbd
+      internalID: 80461701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_70
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 206
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25073e5dd0622be4ea686f24bf62807c
+      internalID: 590885802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_71
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 206
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c3e471e607bc64ab4a8977f4ea444e
+      internalID: 23013494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_72
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 173
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74e55e2075b51241a052938b34a3526
+      internalID: 749966081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_73
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 174
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc668b4b5dacfbb4caad05dc25b6bc6c
+      internalID: -261601896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_74
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 174
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efd3a2df9eccc544984ff99dbac9f90
+      internalID: -1360579506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_75
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 173
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312e5ea98114c1e42bfd5b606d765897
+      internalID: -1153968629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_76
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 174
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c862d0d8bd09328408dfaeec5c9066ce
+      internalID: -1544181222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_77
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 174
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a9c9a918c4e4a479fa58607ca4822d
+      internalID: -2067230567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_78
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 173
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ff9a2af94e2a544967a72c0f0eb5ef
+      internalID: -1778454820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_79
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 174
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f26fe88530657f4fa02d86c2829704e
+      internalID: 359792851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_80
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 174
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb97aad6e5720f14585eecc963e1a162
+      internalID: -1991771330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_81
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 173
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2692bd855d8dff4d99b1ff5bf341175
+      internalID: 132230972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_82
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 174
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee833c1d48b2e2f4b87d2151542c79f4
+      internalID: -799364696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_83
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 174
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d28c17f5c089ef4cba8a7a260c61a82
+      internalID: -1231428081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_84
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae1131b276695245977a3c7f680ee0d
+      internalID: 856219740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_85
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 144
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c70f4b3e94e65e4587192f3de70d032
+      internalID: -554587185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_86
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 144
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0a88bf4f4b5a545a2c10d563e94bdc
+      internalID: -1078186282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_87
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173abbb3ecca0a742be40c7b7e648efa
+      internalID: -888416698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_88
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 144
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b02f0da08e24474b827b1a9f2cc4444
+      internalID: -12701320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_89
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 144
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e14cf22e34a85438d0ae3ce50178ad
+      internalID: -544844166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_90
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1e6d5b22d02654fbd0c2e09bc82a36
+      internalID: 990788729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_91
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 144
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d59a24df9ac1614db59f77d00a39c21
+      internalID: 880805253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_92
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 144
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4bd7b57ca0ba448bf833a5a6c00c71
+      internalID: -1296915103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_93
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e603be83a1a1c488d2fa100ede1db6
+      internalID: 2135999703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_94
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 144
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2dd8e0b9573fe47aa56d4a0df7a519
+      internalID: 973071323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_95
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 144
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015a6e9c501ec1e40b2965455d30c457
+      internalID: -481874120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_96
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 112
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb95d22d7596a44a9a628bd4759c026
+      internalID: 1483813259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_97
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 112
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a762046ce4b4f449ded38a066f6c41
+      internalID: 1505897940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_98
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 112
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0108436af61a44d98b291ec1ae3406
+      internalID: 1412502983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_99
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 112
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ced10e85f67df4791eeebc5370acdb
+      internalID: -1058356068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_100
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 112
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893c0ddf840f5b94981287773b7963e0
+      internalID: 639268438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_101
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 112
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677dc939f0ecbd5438c1d41428992dfa
+      internalID: 1804602788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_102
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 112
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8184a88fa33a27240bd0e5f1e9829c0d
+      internalID: 249602876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_103
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 112
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c63f85483925946b86b1bd416f780c
+      internalID: 224612789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_104
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 112
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcfa55497b3e84418a214fcdaa6a4c0
+      internalID: -255788335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_105
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 112
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756f9fcf47d893f4594ccb8473454c03
+      internalID: 355088505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_106
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 112
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b56fec037f6f64da9a899c748ebbf6
+      internalID: -525226114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_107
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 112
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91040157eb8e2144d8d79484ca02967a
+      internalID: 2038293030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_108
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 79
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588a0f81c3c1e004ca8b81fcaea7d739
+      internalID: -1992077669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_109
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 79
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48e633d24b5b9a4085d9aca5e2c80c8
+      internalID: 1913751473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_110
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 79
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9676f5c552947864384b699916510038
+      internalID: 547841270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_111
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 79
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6193175755552204585fc8b4763305e7
+      internalID: 1287035685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_112
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 79
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22131e4b504e674380525972d241d2b
+      internalID: 203271740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_113
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 79
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7185ebefb13bc5c4fb4b1337138cd09e
+      internalID: 1777270450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_114
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 79
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d25ba29fbcbe243a02d021afd08034
+      internalID: 2034531810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_115
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 79
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49647a54f096e61409fbb157bd527983
+      internalID: -1544295480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_116
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 79
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4176c9092fa9440a1869b2283f7081
+      internalID: -2037053900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_117
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 79
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da35d8c928ad5cb42b2dc368f2b9d334
+      internalID: -1493626378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_118
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 79
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c531b13724479c44a310ab3926aca61
+      internalID: 348311482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_119
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 79
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2b17fc6dbadf546936ff19a14eee8b
+      internalID: -62635210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_120
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 47
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02aaef4c5d45e4245a3e6327385e0035
+      internalID: -1663174073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_121
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 47
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0210533acb79e4940afd0be71595cb56
+      internalID: 1410078221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_122
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 47
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92095ac856db05c4f81ade195ad49fe9
+      internalID: -2045626730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_123
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 47
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae25ea235e1547a4f8632a9eb55c8e52
+      internalID: 364011039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_124
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 47
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d9cd26cbf3ceb4c983f5d9de48035f
+      internalID: 1811313131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_125
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 47
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5bb51029ce0eb44b097b4fb2b06441
+      internalID: 130113931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_126
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 47
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349abb6213025f247b2350ed4d48c784
+      internalID: 1524147969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_127
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 47
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8754ed07c0992409eedc91d9ee5848
+      internalID: -210628019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_128
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 47
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98060923830951b4fa85d868ebfa067a
+      internalID: 1281295792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_129
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 47
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b64d1c05ddb58429b0a8f67a5c927f
+      internalID: 806596731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_130
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 47
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d47dff65aad39c4697a23e70be56400
+      internalID: 1352606177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_131
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 47
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7454eede05756f94e890521815e5a351
+      internalID: -1103269348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_132
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 14
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220e46bc877f8224c9389e11e091b438
+      internalID: -71449216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_133
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 14
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a3a0b866a356e4cb62eabcdffdd430
+      internalID: 1869207983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_134
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 14
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b4f1bb7fed4704a8df220e7b6570d8
+      internalID: 66018463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_135
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 14
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34ff6dfaca44c1428c8c0af29fa5ae9
+      internalID: 1505700329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_136
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 14
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a628770f571eee41b1ef392530dc7a7
+      internalID: 1956102922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_137
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 14
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609a1168cae78d144957a81438088ae1
+      internalID: -2128592747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_138
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 14
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a80b2ce9afcd04aa252f1f8448e7a1
+      internalID: 1381074144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_139
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 14
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e125c219a3ee144baa05b35e3304a9
+      internalID: 300730000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_140
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 14
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02781b5d5dfd0347849eb5a740195bc
+      internalID: 1973690638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_141
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 14
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e771696479d00c41848edc72791bf27
+      internalID: -1650164091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_142
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 14
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c189485747d37ba47b868c2c876362e0
+      internalID: -5524805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_143
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 14
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5aa3964590be49488c6c36af35b87c3
+      internalID: 657954440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_0: -1741211070
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_1: 1664045753
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_10: -1068001652
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_100: 639268438
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_101: 1804602788
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_102: 249602876
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_103: 224612789
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_104: -255788335
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_105: 355088505
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_106: -525226114
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_107: 2038293030
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_108: -1992077669
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_109: 1913751473
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_11: -1017316169
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_110: 547841270
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_111: 1287035685
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_112: 203271740
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_113: 1777270450
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_114: 2034531810
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_115: -1544295480
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_116: -2037053900
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_117: -1493626378
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_118: 348311482
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_119: -62635210
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_12: -431969661
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_120: -1663174073
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_121: 1410078221
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_122: -2045626730
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_123: 364011039
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_124: 1811313131
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_125: 130113931
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_126: 1524147969
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_127: -210628019
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_128: 1281295792
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_129: 806596731
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_13: 853772748
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_130: 1352606177
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_131: -1103269348
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_132: -71449216
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_133: 1869207983
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_134: 66018463
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_135: 1505700329
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_136: 1956102922
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_137: -2128592747
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_138: 1381074144
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_139: 300730000
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_14: 461444339
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_140: 1973690638
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_141: -1650164091
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_142: -5524805
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_143: 657954440
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_15: 39402042
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_16: -313127082
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_17: 18328
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_18: -1744941748
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_19: 1667823964
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_2: -1733291387
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_20: -1468241873
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_21: -1421794291
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_22: -363399836
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_23: -943083172
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_24: 910841410
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_25: 738565524
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_26: 366107985
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_27: 446028204
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_28: -970892897
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_29: 197770795
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_3: -1564902085
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_30: -1593623838
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_31: 617318417
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_32: 1381399532
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_33: -839254507
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_34: -1883738432
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_35: -699832998
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_36: 1414272341
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_37: 1659722795
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_38: 2781829
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_39: -953542063
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_4: -631086858
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_40: -2034091217
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_41: -159016731
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_42: -1660478679
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_43: 96530487
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_44: 1628334318
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_45: -146593186
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_46: -415184170
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_47: -185898465
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_48: 247920428
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_49: 1825387267
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_5: 706419879
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_50: 784353198
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_51: 1501249735
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_52: 1761543581
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_53: -844068501
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_54: -459258730
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_55: -162797977
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_56: -10517139
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_57: 777152639
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_58: 2047278649
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_59: 1627738794
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_6: 551435524
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_60: -368437708
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_61: 1750135686
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_62: -2139709882
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_63: 511970396
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_64: 1916840921
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_65: 959225491
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_66: -2079941010
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_67: -765224395
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_68: -1266343482
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_69: 80461701
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_7: -1905827094
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_70: 590885802
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_71: 23013494
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_72: 749966081
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_73: -261601896
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_74: -1360579506
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_75: -1153968629
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_76: -1544181222
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_77: -2067230567
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_78: -1778454820
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_79: 359792851
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_8: -1206406453
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_80: -1991771330
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_81: 132230972
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_82: -799364696
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_83: -1231428081
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_84: 856219740
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_85: -554587185
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_86: -1078186282
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_87: -888416698
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_88: -12701320
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_89: -544844166
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_9: 347361706
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_90: 990788729
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_91: 880805253
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_92: -1296915103
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_93: 2135999703
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_94: 973071323
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_95: -481874120
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_96: 1483813259
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_97: 1505897940
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_98: 1412502983
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Reimu_99: -1058356068
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,6103 @@
+fileFormatVersion: 2
+guid: 1204a5c4c3d79c445b01fff2ea7da2ab
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Asgores Castle_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 983
+        width: 320
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf72bb811ab7ccd4aa685d139a41b404
+      internalID: -1775730667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1123
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfc9a7b034a9344fbaa7e8619596148
+      internalID: -1606526764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_2
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1123
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4112c2ddb0359ed49878e8444fa321c1
+      internalID: -240142154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_3
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1123
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9269e250766704da69fbb837ffe0e3
+      internalID: -1136749293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_4
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1123
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f59846c6903df4eb67a636b3a9dd07
+      internalID: -1480107680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_5
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1123
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdae298b4ed99be4d82bb9c88f1f30ba
+      internalID: 971014646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_6
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1123
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c828aa75e947edf45a006a0a01bba6c5
+      internalID: 1258229411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1123
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612873332c082fe4591cf26269e03eee
+      internalID: -677171085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_8
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1123
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0ded9a7e42d98418a7b78cf16293cd
+      internalID: 498908210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_9
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1123
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b53d97943740334ab3ebd5d0a74e2b1
+      internalID: 1815099734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_10
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1123
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9409fbdbbac793b4abbbb5e346db7181
+      internalID: 861432296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_11
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1123
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0979a99d7a4f07140b0418ec39d36f03
+      internalID: 316522348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_12
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1123
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829643af7f3006441bab5bcfa91129f2
+      internalID: 1315702848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_13
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1123
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebf697f23241494bb879de88300f341
+      internalID: -1716123951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_14
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1123
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a0ce47b44fc954892b9c0eac2989af
+      internalID: 1947991307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_15
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1123
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb7c26b17308c74eb41e479d2b71fff
+      internalID: 1384048800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_16
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1102
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8863137f0cde048987a90b47650f7c
+      internalID: -2003774779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_17
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1102
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86963a918f3967d4d8862624cb675756
+      internalID: 954314853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_18
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1102
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96ded78801df2c48a8dc575b13bb4e6
+      internalID: 1824360444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_19
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1102
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d1b2d69594aea43b57bb57cdc2ca7a
+      internalID: 1016911537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_20
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1102
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726df10072ca47648a44a8f752cb3493
+      internalID: -587574767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_21
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1102
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dea07037fecdcb478b4cc475fe5340c
+      internalID: -1697225900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1102
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79169854dcc3bc40819afeb2022c787
+      internalID: 1295692577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_23
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1102
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc482b62fb11944cae9b8eb65d5baa9
+      internalID: 2050139060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_24
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1102
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31459c0e4cfc6a14b914d09ba1265384
+      internalID: 1887491718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_25
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1102
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a492d87b9e5a8714bae98a6f82896649
+      internalID: 1114118172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_26
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1102
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43145811f05eb1f4a871e8d3be68e937
+      internalID: -2004763894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_27
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1102
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0186bb9f563ebd740b72b870cc190940
+      internalID: 1555408961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_28
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1102
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d1c889f65608145bfba8ebde318d52
+      internalID: -1610280849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_29
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1102
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1202470e540c14cb7b6d6c616b6c12
+      internalID: 1544019640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_30
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1102
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158805bdb70a77446aa9be3eb589bcab
+      internalID: 406218547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_31
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1102
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac76b8b1bd26a74f8d04746cfcf82c8
+      internalID: -1797228502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_32
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1081
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a26a9c58ac9956479ff8697bab13322
+      internalID: -1591202830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_33
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1081
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348fb2202a077dc44af26092e11f944d
+      internalID: -738492929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_34
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1081
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470d07113dae70d4281ee7766e4074b0
+      internalID: -1097088429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_35
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1081
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8499d99803ed87458657d0151e2ac91
+      internalID: -1928303922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_36
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1081
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4036a0dabe9d0be41858ddac5dec2e1a
+      internalID: -1280673281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_37
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1081
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d220e0b2a528754f83a6364c4790b5d
+      internalID: -546112287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_38
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1081
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f44c5d95310d934e80cbd57e3cbc3bd
+      internalID: -1596755547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_39
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1081
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715440baaeed0bb4b8e9d51d1e7d34a0
+      internalID: -846822545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_40
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1081
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c207b840813cf7e4888ec668e931a82f
+      internalID: 37675826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_41
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1081
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21b302a016bf294bb5c38340a80cd23
+      internalID: -1419370020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_42
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1081
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5041490bd73866543a1a14dc6f5ace48
+      internalID: 669470485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_43
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1081
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d52b232c54a28f4b98c2e69e10d225c
+      internalID: -568651235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_44
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1081
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e2c611d6aec7c4190c76acc77a5d23
+      internalID: -1196827717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_45
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1081
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd6ecfbdb8df9e49b91677b5f9d5661
+      internalID: 216498937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_46
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1081
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d662bf46df1324344ab9f55b690fb5ec
+      internalID: 883912790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_47
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1081
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1242edf25e14b2a46a9a44eb2e3279f4
+      internalID: -11745580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_48
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1060
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3819a60878fda214b97dae075660dc0d
+      internalID: -430283878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_49
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1060
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449d9914063987a46a0bf8c0a850d426
+      internalID: 1018996400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_50
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1060
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0a20122521eb048963875d729fcf00
+      internalID: 898259270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_51
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1060
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0993e853211424f89bf390a670c7e7
+      internalID: 1351277310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_52
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1060
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb463ac8267d3344b3642672690968a
+      internalID: 572217263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_53
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1060
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1539b6cd8a694a44885ac6a104f65996
+      internalID: 1584503973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_54
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1060
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdeb4de03b6d9d48ae35e2ed031d886
+      internalID: -143675180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_55
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1060
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fe5f5a1d87d7d45ae609685080b47e
+      internalID: 212878879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_56
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1060
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5aa5bd9788b7f4886b2fba29303814
+      internalID: 640091055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_57
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1060
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ea4158c1065174d846128959664899
+      internalID: 1456526475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_58
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1060
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb79d2ba3643ce44fad2d582512b7be8
+      internalID: 242846194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_59
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1060
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6d9d766b06fb2438f1ecee48cb5a40
+      internalID: 1308246312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_60
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1060
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ac9622c92ff754c9970e1ed25dedcd
+      internalID: -1017903664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_61
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1060
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930a6e3f24c3d134f97a640d3d6ee6f2
+      internalID: -417994169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_62
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1060
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da74a287cec5bf498049adf89703793
+      internalID: 754002483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_63
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1060
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f113d50c7d2e13e49afdd3873976bcef
+      internalID: -1035698518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_64
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1039
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dcaa20a8abaaf488b76652b46bc718
+      internalID: -2007722769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_65
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1039
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80e7c89cd3dc304895bf77b8b70b721
+      internalID: -11032265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_66
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1039
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4198036729f50694582a2230aab0b37f
+      internalID: -1059933835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_67
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1039
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230919bd42275384fa4e7bd1562d0860
+      internalID: -178967104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_68
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1039
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a79c711c5427743a07f0997073fc33
+      internalID: 1436240030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_69
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1039
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0849c6e3fb1a64585c38de22cc0d79
+      internalID: 1811434658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_70
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1039
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094ddc91b6c9cbd44a584cb9f14937d3
+      internalID: -1393068416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_71
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1039
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00003670f678c0a47b8b26658a380394
+      internalID: -991913172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_72
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1039
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2217f9a132d201a478a7c0690f22f448
+      internalID: -1906503382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_73
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1039
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc74aa14fc5ec434dacc3fefe3813d1c
+      internalID: -2113232724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_74
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1039
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b020799b62cd924eb2ed011e9981f37
+      internalID: 695164275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_75
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1039
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311b30c15c042b84fa4f0574b0e2bc3e
+      internalID: 1562085354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_76
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1039
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9ed1bda0876824794f7c8c0ac64229
+      internalID: 620280857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_77
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1039
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9095eae07752a04bbd2894c2463de68
+      internalID: 1929332174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_78
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1039
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e8e71034e9824488e5e569753b472c
+      internalID: 1768625187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_79
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1039
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0545b14d85bf754db312655f3bcb888
+      internalID: -1979426454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_80
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1018
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547d566f9a07b3141b1fe2ac200979b2
+      internalID: 1177808743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_81
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1018
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820aa27af7c3f554198a19c57ca36db6
+      internalID: -1270464363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_82
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1018
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11352f3b3d3702f49a637e50c6936fc6
+      internalID: -1654542337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_83
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1018
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0dade52dd1d6341b3879b55c0d7183
+      internalID: -1557761084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_84
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1018
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872194a200ac5664f854cd7f23f8413b
+      internalID: 132222713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_85
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1018
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbe489556895a14fb4c51e125a35fb1
+      internalID: 1324938748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_86
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1018
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d48d8f331e7cb44aa701bac4d12378
+      internalID: -699705389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_87
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1018
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9e95c43b007c44481b5339ab2311a5
+      internalID: 1955999011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_88
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1018
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3bb1acece29b04ab3547a9250c41ab
+      internalID: -605110023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_89
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1018
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e854b3550677046a6d8a3cd298ae9d
+      internalID: 1128557824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_90
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1018
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479394f7235c735448b2c9d145238954
+      internalID: 1282301126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_91
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1018
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b0eafd7634888409ab0c3f0a896332
+      internalID: 82088141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_92
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1018
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2324a082caefc3149a01d30bb4c63e6f
+      internalID: -1421656752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_93
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1018
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1956f6431f4ed574e9ed56b25a5a9c36
+      internalID: -1312432225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_94
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1018
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee737901243d7d47b54ae8cc57be806
+      internalID: -1772736361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_95
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 997
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd44ac146feef5446b749689f5384241
+      internalID: -9606348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_96
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 997
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8810ebde02e0748b73297fa7b76bb7
+      internalID: 259963625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_97
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 997
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfba9784aa3b8247988857b501ef3bd
+      internalID: -2106125539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_98
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 997
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e2061e84665a74ba57f238e629a039
+      internalID: 927996888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_99
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 997
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8986e38929d95ab49a97215a3a37b79c
+      internalID: 890707500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_100
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 997
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b94d6a19d2ca54d963ff62052c3ff5
+      internalID: 132353296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_101
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 997
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bbeb4ff0d751443ab002c1fcc3d794
+      internalID: 1502918698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_102
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1001
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7964f091d770d48839477e6177bbbf
+      internalID: -1411472305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_103
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 997
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4872cdc8ee79f544d916e9abb88dd645
+      internalID: 1463652808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_104
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 997
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500c418d860e6a3498429e820a8731b9
+      internalID: 460499532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_105
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 997
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f693c08bac786d4a846b2c231e7d681
+      internalID: -1091059939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_106
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 997
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa9f0d456c39314190c34fa43c365de
+      internalID: 1776149120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_107
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 997
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd96547b978d36c4e8621cf26ddbfba2
+      internalID: -1252081787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_108
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 997
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee37046fa47f48342ae8b004307cb3f5
+      internalID: 819257269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_109
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 997
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468ea410ab14c1646a7de2001bd21566
+      internalID: -1971105791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_110
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 997
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936832c1950599a4bbaea258e9b1adac
+      internalID: -1821080747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_111
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 976
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f97f3e95205a7428cd368b180c28b4
+      internalID: 1692983511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_112
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 976
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cd5e8293bfa494894a801a16500aaf
+      internalID: -2061692572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_113
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 976
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f454a6be73b4941bc919af406c813b
+      internalID: 1735573200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_114
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 976
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6958c22f8e3a47948ad610dde62f98f7
+      internalID: -1829034960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_115
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 976
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5a2ded305674e4fb1a625fb39efc8f
+      internalID: -723899743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_116
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 976
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19917b662c13aab4e93a8ea3da2340e1
+      internalID: 1137817348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_117
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 976
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394368c55f6260d47b886311b3587a74
+      internalID: 1134059890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_118
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 992
+        width: 27
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b198d2b6e54c5a4a952b3ea6ebfbf5a
+      internalID: 700413010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_119
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 976
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c484fc0ee31a1542be51e601df35c7a
+      internalID: 584448780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_120
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 976
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb76af334c36dbc40a45824a9e6fe55f
+      internalID: 1757469307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_121
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 976
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010a04420ac773a4fad2ec8ee8a273f4
+      internalID: -1045502307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_122
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 976
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d947b0840988d46b36b4e1f7121ff8
+      internalID: 1651065749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_123
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 976
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0037349a56aca42834007ebf00398e
+      internalID: 1610269626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_124
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 976
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4277db9ae057a074da559a403c8d21bd
+      internalID: 1829964016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_125
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 772
+        width: 67
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa381396148a42469ca1231993133f0
+      internalID: 624818629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_126
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 876
+        width: 44
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5e4828a366e574b869f47d6c44aad8
+      internalID: -102311084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_127
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 944
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcf54293d7958440853ee0a0407c8db
+      internalID: -173187171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_128
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 944
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7800835b57cda9e49b3a344b02e96435
+      internalID: 2035758979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_129
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 944
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115924b912aa06f4c898cf7f60879a75
+      internalID: 922150342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_130
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 944
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d0cef65401a3a40816d6fd6289dd31
+      internalID: -1858408677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_131
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 944
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05d62eee6cd49249ae52d3c4000ea0f
+      internalID: 1982037717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_132
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 969
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f6a816b5741d9458cf90e2ee7f36ac
+      internalID: -2104803969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_133
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 969
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3f49097e3592444b25bce41f57d05b
+      internalID: 1934643073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_134
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 969
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a2e96b7ba50b14389cb2cf0c2fcce6
+      internalID: 684947915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_135
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 969
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21deb981d647554383de752f022bfa0
+      internalID: 194729613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_136
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 969
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2beec3cea120d814590dfd6ed24eb82a
+      internalID: 1111326508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_137
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 969
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8edf76b81cbd9f47bb847884fc79051
+      internalID: 378910421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_138
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 822
+        width: 17
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf1e66998702ac4880a65b51c952d6b
+      internalID: 16303811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_139
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 822
+        width: 37
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b2642313f33ae429dfc7d01aaec3f6
+      internalID: -973534289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_140
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 822
+        width: 17
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070ad88efe8678f4d897d8060f6e9649
+      internalID: 284518326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_141
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 822
+        width: 17
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982442130a7bfe347be3ed470309a6b5
+      internalID: -454725218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_142
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 822
+        width: 17
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a778ddc15e24d20419da8fc0eb46e56d
+      internalID: 26355980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_143
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 876
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a67f779e6e6b7542972b7431d6e9368
+      internalID: -1510622218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_144
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 876
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf23af1548373342b35d2d21576786b
+      internalID: -1035454434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_145
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 876
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f509385eb169614984d2c042c64ce06
+      internalID: -407709621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_146
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 824
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17084f7bc78a664791564295effe647
+      internalID: -1625847217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_147
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 824
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35961f0b146735445bf19cb76cd98ce0
+      internalID: -1838726135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_148
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 824
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1add71b76219640ab7e9afb34e0477
+      internalID: 694532331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_149
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 824
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c785c9819b2f1d546a429f93179d351f
+      internalID: 1764430490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_150
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 824
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372b4ec0f762e264d88fee0c6f55fe23
+      internalID: 2029044663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_151
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 824
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2bdf98e57702041b5280863483c313
+      internalID: -800350576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_152
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 824
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edf50dfba1adb942bfc560b91d828ff
+      internalID: 1709084003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_153
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 661
+        width: 149
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48172c46d536ede439f245114afae233
+      internalID: -648714070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_154
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 772
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e324eb1e03953540b05e5f72f345c97
+      internalID: 1135450693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_155
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 772
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1716add7793b6e84698c0ccb9927c8ad
+      internalID: -46204867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_156
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 772
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9da5a8b7ea97c42b0d901350a192d5
+      internalID: -2006829412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_157
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 772
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb18a0c5e9bc5e34d93d065c27ce1ca2
+      internalID: 1570095609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_158
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 772
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eafc6b18a517aa48a9223cec8a84d6b
+      internalID: -345866529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_159
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 772
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5948411372af4c44fbfd4aefdfe6696f
+      internalID: 1891727984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_160
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 751
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35caaa633dcb3e14d9c21a52fd536ed1
+      internalID: -182179158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_161
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 751
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ea297970f97cc4188c76391e182897
+      internalID: 676822216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_162
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 751
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30435553e519a9243bb3c4b6f8e52bc3
+      internalID: -1830270447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_163
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 751
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126128bdf49c59c4f9880977231d78eb
+      internalID: 471197331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_164
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 751
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223c414326155dc489f2e078639d44c7
+      internalID: -1683808554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_165
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 751
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db042b8a1bbd66746a0f965fe0d64c2b
+      internalID: -654461864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 751
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510aaf69d2613f54c996594901d0356d
+      internalID: -1698763328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_167
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 751
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6a03beed9cd5041b575a001702a9e0
+      internalID: -1558749844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_168
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 751
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f289ce61b34994aa5c209ad76c489e
+      internalID: 931798809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_169
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 751
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad41c27307827144f9d02716b52e5804
+      internalID: -1211027718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_170
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 751
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f808981ff18a74e92c301e176bd446
+      internalID: -1905836356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_171
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 751
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f75b1e00c6cbb45bbcc5aa82e9d420
+      internalID: 850326939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_172
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 751
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9e17654a92c2849ab8da4879af4f12
+      internalID: -1101790873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_173
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 730
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94183817b2daa742b5a014eab6b2d16
+      internalID: 717708168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_174
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 730
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d2ec67ccaf6114b8df86f1c26097ee
+      internalID: 258998601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_175
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 730
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2421f95dc65db4b8c8619799c7391b
+      internalID: -1341647603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_176
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 730
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640b011e6f51f8542a6eeb84ade6438c
+      internalID: -121603160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_177
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 730
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720e77eb766cf2e409265955c7110840
+      internalID: 254560432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_178
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 730
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e4413000efdde4eb9a2d34f9027a30
+      internalID: -1273469541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_179
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 730
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd95458997d23a4d8b8f7ee88229759
+      internalID: 645628346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_180
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 730
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2506675c9039b7d49b3f1fe971266bb1
+      internalID: -348220175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_181
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 730
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5140f2d4273cf4ca248e3b3c5a61ce
+      internalID: -181802371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_182
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 730
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff1aff3fc54f014ca237a719a389483
+      internalID: -1000255566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_183
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 730
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5b5557aee57444490768b7ec35ce7d
+      internalID: -782770660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_184
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 730
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f939d9499423a4eaeb0dd9ee5f885e
+      internalID: 228954009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_185
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 730
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fa90a8dfc89a0449de8485418543ae
+      internalID: 1614065107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_186
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 709
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c1cbb6cb6c5c844b5b7c38165b6574
+      internalID: -782263155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_187
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 709
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bcb1f55923dd943a085e7ccf4e0d9c
+      internalID: 117514928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_188
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 709
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244982195ebc9ee439b4408ba6af690e
+      internalID: 708674634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_189
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 709
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d34e9e062abdf84f8c00d1d36165132
+      internalID: 1432604361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_190
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 709
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a87208d0ed3f0429c22adc3f2d5661
+      internalID: -1555816580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_191
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 709
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ff0d2203fc35d479e58ca0051990e8
+      internalID: 2038262292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_192
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 709
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c318cf392f30b644d9095493e22f3f1d
+      internalID: 1251591825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_193
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 709
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507d37037f34b9b4fa82029150fc1aea
+      internalID: -466813608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_194
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 709
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8080146836a3a4f87b832e678adf95
+      internalID: -1437510893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_195
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 709
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8716755bf13fb149b39686d681ce1aa
+      internalID: -1567088790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_196
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 710
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8058105a6213ebf4396562a666eddd72
+      internalID: -2119968569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_197
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 710
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81f153bd0265ab42bc089fabfe6df43
+      internalID: 1135993843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_198
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 709
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b27536476b6e6544b276ce3b079bbbb
+      internalID: -1310443159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_199
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 688
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4637d2600f2b448a015586e14d179d
+      internalID: 1825936578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_200
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 688
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b6bd3bd11b04f4fb2e5db9e91f7b60
+      internalID: 759621423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_201
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 688
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516f63ca1e1f3644ab95d60df75357b0
+      internalID: 2138878461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_202
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 688
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab2905bd2d1c80459aeb083f8213441
+      internalID: -852494328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_203
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 688
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dda856a82ac6074eb95fc59a298e80d
+      internalID: -1030306513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_204
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 688
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31d038ba7a37c54399ce2ba8a5f2983
+      internalID: 389385239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_205
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 688
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f3cefc58412a446907a6e79e2b23e9
+      internalID: -250153688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_206
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 688
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97f9c0c07f381e4292934ebcf19a834
+      internalID: 1551570113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_207
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 688
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01218abbfe1d50d45ab088e0c03c1823
+      internalID: -1783506414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_208
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 688
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14ef08139e94b341b3a16de6ae943d7
+      internalID: 162957930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_209
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 688
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1e0b9ef2c7eeb40984486fe71c6b8c
+      internalID: -741982386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_210
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 688
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfc8b4bea0529e4a9acf323b27fae7b
+      internalID: 634011275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_211
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 688
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd259d92e39175f4f9d90748c3eed6d4
+      internalID: 1339727906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_212
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 667
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5719a48fdb6eb418c942ef43f17630
+      internalID: 909208421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_213
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 667
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177ee382b03422b49aef6fc90095c557
+      internalID: -212428629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_214
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 667
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbffb371a0ec2dd4eb7792a6e7723e55
+      internalID: 1607483105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_215
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 667
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2a9800606d6174f84a4b8a52ff43bd
+      internalID: -1760381411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_216
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 667
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bff1d9a2b1482b4d93368c63a2b6496
+      internalID: -1239092827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_217
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 667
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a23cb77cea5d3f4792504f5910ac542
+      internalID: 408767423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_218
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 667
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a41a3455a2e76b4bbdbe985e9c7d1da
+      internalID: 1822779857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_219
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 667
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f292c2f753c3b2419c12f56286de4e3
+      internalID: 1979874124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_220
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 667
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab82f518affe29469eb97ccb38c422c
+      internalID: 992607364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_221
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 667
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09ceb02264844543b9a489abcc41d5c
+      internalID: 1506188796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_222
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 667
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb07b02d1b990e4591a718a23c44903
+      internalID: 161384798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_223
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 667
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf24f17a97128f4584b98ac182f96ad
+      internalID: -1135361963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_224
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 667
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1969175068e8a4aba93a322754afe0
+      internalID: 1165150536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_225
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 646
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfc0290a4f322b499502b82e35bef49
+      internalID: -1005441695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_226
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 646
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59823e807625d78499f57af1b6517e8d
+      internalID: 1821833936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_227
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 646
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4598d5daa0b1519499a2e6b7bfd11817
+      internalID: 356216792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_228
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 646
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c72029a5596304f96b56a20420f181
+      internalID: 563620014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_229
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 646
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7bb93e59d09454fb84338a626f9281
+      internalID: -1636706928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_230
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 646
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d367fae8078cd458f22f97b95ba4a6
+      internalID: 808064933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_231
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 646
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c7319be3a5ad1419e8da2a2abc3ba3
+      internalID: -899191704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_232
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 646
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f161ce09f6ee81498a86fecd0f0e590
+      internalID: 1756521182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_233
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 646
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc718d87eeaa0e24e8618848f13c406d
+      internalID: 1260883662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_234
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 646
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0098e8333e324bb4999cc044339bc28e
+      internalID: 1349859637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_235
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 646
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98db7d55ff1c92c4fbd39c1bb82b3dfd
+      internalID: -998065518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_236
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 646
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fb76a524e438f4d8b860d0d7b0f3da
+      internalID: 333022582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_237
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 646
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64643a590167f7e47b7d91fe76f640b5
+      internalID: 1318276890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_238
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 625
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465b6b7ed0720b24f94b6cefcbfc73e0
+      internalID: -817694930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_239
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 625
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f2a44238dc97542952c1dee668e0ce
+      internalID: 2076976889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_240
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 625
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcd40f7b461d81449fe487587b6d1bf
+      internalID: 1696318107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_241
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 625
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db1cfd78feb4d248ac880d52196d224
+      internalID: 2022830127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_242
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 625
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b079fc121a0c74b9287a390537dffe
+      internalID: 1638291764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_243
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 625
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc153f9e7a5d1e04c8a78e9e5d29c147
+      internalID: -499913183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_244
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 625
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e23fa208bc4524d971139e976dd12c
+      internalID: 817223331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_245
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 625
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899fdb215dc81a84bb0802db2a0aa406
+      internalID: 186254760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_246
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 625
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca6d096a7365ce4a87f11eb8fdb92eb
+      internalID: -1068380343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_247
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 625
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed07313c960c96469d00fa6dbf22171
+      internalID: 2045339601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_248
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 627
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3700ea78811d3134cbde89f33b7474d8
+      internalID: -1613620736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_249
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 625
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed9ab4dd974f034f9b6bf91216d8b84
+      internalID: -432885287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_250
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 628
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757d27d812d94e64d86260cef3f7c0c6
+      internalID: -1366931652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_251
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 604
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de42aa901f0ae54690328ba5153b4b3
+      internalID: 2145834112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_252
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 604
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f2b7213ffbdee4db2a8fc5c5cf5856
+      internalID: -1724593986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_253
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 604
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44de15679620ff74db458cbc9500757c
+      internalID: 23384365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_254
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 604
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b895248278567459544c22c7e28fb0
+      internalID: -515778618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_255
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 604
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421c73ff0848c9e459d9a7877bdaffb5
+      internalID: 1595341482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_256
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 604
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e73e2e880982f64cad2e645565ae295
+      internalID: -142629953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_257
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 604
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da5b23407297004a94b79398d44656f
+      internalID: -1443890731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_258
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 604
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab9b266193731a4f9503c6679f2264a
+      internalID: -726534304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_259
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 604
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458bd652d6d9a2a4c840c451a2401260
+      internalID: 1480517871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_260
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 604
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045b7a6d55f19e74a94257d79c5fa2b1
+      internalID: 789501382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_261
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 500
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c21f4c32b812d4baae046b08b7b9f2
+      internalID: -104526441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_262
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0614b1b4fdc537b4eacea6256a782ced
+      internalID: 155962719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_263
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 500
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d6c8af1abc4da41845990dc370d256
+      internalID: -1538428934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_264
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 500
+        width: 45
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44f0a47d8073ae4a88f84a1f494c14c
+      internalID: -669803197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_265
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1
+        width: 281
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8c82f4f4ba56d4ea374ce4196565d8
+      internalID: 215996944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_266
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 339
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6f1b6f5e92bd243b9d4cd1a59cf404
+      internalID: -1391905793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_267
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 339
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b5d82f73b793642a61f6ff1f892709
+      internalID: 962007068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_268
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 178
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f84fd50c801ee04184e73520e5bab64
+      internalID: 693609900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_269
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 17
+        width: 84
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7211782d841f214b947cae981fae01a
+      internalID: -1027879867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asgores Castle_270
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 17
+        width: 84
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f94d5749ce6c8146a785748b8998260
+      internalID: 1482092674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Asgores Castle_0: -1775730667
+      Asgores Castle_1: -1606526764
+      Asgores Castle_10: 861432296
+      Asgores Castle_100: 132353296
+      Asgores Castle_101: 1502918698
+      Asgores Castle_102: -1411472305
+      Asgores Castle_103: 1463652808
+      Asgores Castle_104: 460499532
+      Asgores Castle_105: -1091059939
+      Asgores Castle_106: 1776149120
+      Asgores Castle_107: -1252081787
+      Asgores Castle_108: 819257269
+      Asgores Castle_109: -1971105791
+      Asgores Castle_11: 316522348
+      Asgores Castle_110: -1821080747
+      Asgores Castle_111: 1692983511
+      Asgores Castle_112: -2061692572
+      Asgores Castle_113: 1735573200
+      Asgores Castle_114: -1829034960
+      Asgores Castle_115: -723899743
+      Asgores Castle_116: 1137817348
+      Asgores Castle_117: 1134059890
+      Asgores Castle_118: 700413010
+      Asgores Castle_119: 584448780
+      Asgores Castle_12: 1315702848
+      Asgores Castle_120: 1757469307
+      Asgores Castle_121: -1045502307
+      Asgores Castle_122: 1651065749
+      Asgores Castle_123: 1610269626
+      Asgores Castle_124: 1829964016
+      Asgores Castle_125: 624818629
+      Asgores Castle_126: -102311084
+      Asgores Castle_127: -173187171
+      Asgores Castle_128: 2035758979
+      Asgores Castle_129: 922150342
+      Asgores Castle_13: -1716123951
+      Asgores Castle_130: -1858408677
+      Asgores Castle_131: 1982037717
+      Asgores Castle_132: -2104803969
+      Asgores Castle_133: 1934643073
+      Asgores Castle_134: 684947915
+      Asgores Castle_135: 194729613
+      Asgores Castle_136: 1111326508
+      Asgores Castle_137: 378910421
+      Asgores Castle_138: 16303811
+      Asgores Castle_139: -973534289
+      Asgores Castle_14: 1947991307
+      Asgores Castle_140: 284518326
+      Asgores Castle_141: -454725218
+      Asgores Castle_142: 26355980
+      Asgores Castle_143: -1510622218
+      Asgores Castle_144: -1035454434
+      Asgores Castle_145: -407709621
+      Asgores Castle_146: -1625847217
+      Asgores Castle_147: -1838726135
+      Asgores Castle_148: 694532331
+      Asgores Castle_149: 1764430490
+      Asgores Castle_15: 1384048800
+      Asgores Castle_150: 2029044663
+      Asgores Castle_151: -800350576
+      Asgores Castle_152: 1709084003
+      Asgores Castle_153: -648714070
+      Asgores Castle_154: 1135450693
+      Asgores Castle_155: -46204867
+      Asgores Castle_156: -2006829412
+      Asgores Castle_157: 1570095609
+      Asgores Castle_158: -345866529
+      Asgores Castle_159: 1891727984
+      Asgores Castle_16: -2003774779
+      Asgores Castle_160: -182179158
+      Asgores Castle_161: 676822216
+      Asgores Castle_162: -1830270447
+      Asgores Castle_163: 471197331
+      Asgores Castle_164: -1683808554
+      Asgores Castle_165: -654461864
+      Asgores Castle_166: -1698763328
+      Asgores Castle_167: -1558749844
+      Asgores Castle_168: 931798809
+      Asgores Castle_169: -1211027718
+      Asgores Castle_17: 954314853
+      Asgores Castle_170: -1905836356
+      Asgores Castle_171: 850326939
+      Asgores Castle_172: -1101790873
+      Asgores Castle_173: 717708168
+      Asgores Castle_174: 258998601
+      Asgores Castle_175: -1341647603
+      Asgores Castle_176: -121603160
+      Asgores Castle_177: 254560432
+      Asgores Castle_178: -1273469541
+      Asgores Castle_179: 645628346
+      Asgores Castle_18: 1824360444
+      Asgores Castle_180: -348220175
+      Asgores Castle_181: -181802371
+      Asgores Castle_182: -1000255566
+      Asgores Castle_183: -782770660
+      Asgores Castle_184: 228954009
+      Asgores Castle_185: 1614065107
+      Asgores Castle_186: -782263155
+      Asgores Castle_187: 117514928
+      Asgores Castle_188: 708674634
+      Asgores Castle_189: 1432604361
+      Asgores Castle_19: 1016911537
+      Asgores Castle_190: -1555816580
+      Asgores Castle_191: 2038262292
+      Asgores Castle_192: 1251591825
+      Asgores Castle_193: -466813608
+      Asgores Castle_194: -1437510893
+      Asgores Castle_195: -1567088790
+      Asgores Castle_196: -2119968569
+      Asgores Castle_197: 1135993843
+      Asgores Castle_198: -1310443159
+      Asgores Castle_199: 1825936578
+      Asgores Castle_2: -240142154
+      Asgores Castle_20: -587574767
+      Asgores Castle_200: 759621423
+      Asgores Castle_201: 2138878461
+      Asgores Castle_202: -852494328
+      Asgores Castle_203: -1030306513
+      Asgores Castle_204: 389385239
+      Asgores Castle_205: -250153688
+      Asgores Castle_206: 1551570113
+      Asgores Castle_207: -1783506414
+      Asgores Castle_208: 162957930
+      Asgores Castle_209: -741982386
+      Asgores Castle_21: -1697225900
+      Asgores Castle_210: 634011275
+      Asgores Castle_211: 1339727906
+      Asgores Castle_212: 909208421
+      Asgores Castle_213: -212428629
+      Asgores Castle_214: 1607483105
+      Asgores Castle_215: -1760381411
+      Asgores Castle_216: -1239092827
+      Asgores Castle_217: 408767423
+      Asgores Castle_218: 1822779857
+      Asgores Castle_219: 1979874124
+      Asgores Castle_22: 1295692577
+      Asgores Castle_220: 992607364
+      Asgores Castle_221: 1506188796
+      Asgores Castle_222: 161384798
+      Asgores Castle_223: -1135361963
+      Asgores Castle_224: 1165150536
+      Asgores Castle_225: -1005441695
+      Asgores Castle_226: 1821833936
+      Asgores Castle_227: 356216792
+      Asgores Castle_228: 563620014
+      Asgores Castle_229: -1636706928
+      Asgores Castle_23: 2050139060
+      Asgores Castle_230: 808064933
+      Asgores Castle_231: -899191704
+      Asgores Castle_232: 1756521182
+      Asgores Castle_233: 1260883662
+      Asgores Castle_234: 1349859637
+      Asgores Castle_235: -998065518
+      Asgores Castle_236: 333022582
+      Asgores Castle_237: 1318276890
+      Asgores Castle_238: -817694930
+      Asgores Castle_239: 2076976889
+      Asgores Castle_24: 1887491718
+      Asgores Castle_240: 1696318107
+      Asgores Castle_241: 2022830127
+      Asgores Castle_242: 1638291764
+      Asgores Castle_243: -499913183
+      Asgores Castle_244: 817223331
+      Asgores Castle_245: 186254760
+      Asgores Castle_246: -1068380343
+      Asgores Castle_247: 2045339601
+      Asgores Castle_248: -1613620736
+      Asgores Castle_249: -432885287
+      Asgores Castle_25: 1114118172
+      Asgores Castle_250: -1366931652
+      Asgores Castle_251: 2145834112
+      Asgores Castle_252: -1724593986
+      Asgores Castle_253: 23384365
+      Asgores Castle_254: -515778618
+      Asgores Castle_255: 1595341482
+      Asgores Castle_256: -142629953
+      Asgores Castle_257: -1443890731
+      Asgores Castle_258: -726534304
+      Asgores Castle_259: 1480517871
+      Asgores Castle_26: -2004763894
+      Asgores Castle_260: 789501382
+      Asgores Castle_261: -104526441
+      Asgores Castle_262: 155962719
+      Asgores Castle_263: -1538428934
+      Asgores Castle_264: -669803197
+      Asgores Castle_265: 215996944
+      Asgores Castle_266: -1391905793
+      Asgores Castle_267: 962007068
+      Asgores Castle_268: 693609900
+      Asgores Castle_269: -1027879867
+      Asgores Castle_27: 1555408961
+      Asgores Castle_270: 1482092674
+      Asgores Castle_271: -1279107674
+      Asgores Castle_28: -1610280849
+      Asgores Castle_29: 1544019640
+      Asgores Castle_3: -1136749293
+      Asgores Castle_30: 406218547
+      Asgores Castle_31: -1797228502
+      Asgores Castle_32: -1591202830
+      Asgores Castle_33: -738492929
+      Asgores Castle_34: -1097088429
+      Asgores Castle_35: -1928303922
+      Asgores Castle_36: -1280673281
+      Asgores Castle_37: -546112287
+      Asgores Castle_38: -1596755547
+      Asgores Castle_39: -846822545
+      Asgores Castle_4: -1480107680
+      Asgores Castle_40: 37675826
+      Asgores Castle_41: -1419370020
+      Asgores Castle_42: 669470485
+      Asgores Castle_43: -568651235
+      Asgores Castle_44: -1196827717
+      Asgores Castle_45: 216498937
+      Asgores Castle_46: 883912790
+      Asgores Castle_47: -11745580
+      Asgores Castle_48: -430283878
+      Asgores Castle_49: 1018996400
+      Asgores Castle_5: 971014646
+      Asgores Castle_50: 898259270
+      Asgores Castle_51: 1351277310
+      Asgores Castle_52: 572217263
+      Asgores Castle_53: 1584503973
+      Asgores Castle_54: -143675180
+      Asgores Castle_55: 212878879
+      Asgores Castle_56: 640091055
+      Asgores Castle_57: 1456526475
+      Asgores Castle_58: 242846194
+      Asgores Castle_59: 1308246312
+      Asgores Castle_6: 1258229411
+      Asgores Castle_60: -1017903664
+      Asgores Castle_61: -417994169
+      Asgores Castle_62: 754002483
+      Asgores Castle_63: -1035698518
+      Asgores Castle_64: -2007722769
+      Asgores Castle_65: -11032265
+      Asgores Castle_66: -1059933835
+      Asgores Castle_67: -178967104
+      Asgores Castle_68: 1436240030
+      Asgores Castle_69: 1811434658
+      Asgores Castle_7: -677171085
+      Asgores Castle_70: -1393068416
+      Asgores Castle_71: -991913172
+      Asgores Castle_72: -1906503382
+      Asgores Castle_73: -2113232724
+      Asgores Castle_74: 695164275
+      Asgores Castle_75: 1562085354
+      Asgores Castle_76: 620280857
+      Asgores Castle_77: 1929332174
+      Asgores Castle_78: 1768625187
+      Asgores Castle_79: -1979426454
+      Asgores Castle_8: 498908210
+      Asgores Castle_80: 1177808743
+      Asgores Castle_81: -1270464363
+      Asgores Castle_82: -1654542337
+      Asgores Castle_83: -1557761084
+      Asgores Castle_84: 132222713
+      Asgores Castle_85: 1324938748
+      Asgores Castle_86: -699705389
+      Asgores Castle_87: 1955999011
+      Asgores Castle_88: -605110023
+      Asgores Castle_89: 1128557824
+      Asgores Castle_9: 1815099734
+      Asgores Castle_90: 1282301126
+      Asgores Castle_91: 82088141
+      Asgores Castle_92: -1421656752
+      Asgores Castle_93: -1312432225
+      Asgores Castle_94: -1772736361
+      Asgores Castle_95: -9606348
+      Asgores Castle_96: 259963625
+      Asgores Castle_97: -2106125539
+      Asgores Castle_98: 927996888
+      Asgores Castle_99: 890707500
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

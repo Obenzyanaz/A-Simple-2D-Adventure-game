@@ -1,0 +1,3075 @@
+fileFormatVersion: 2
+guid: 1978c0907c799a1499771a7d2b774807
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 948
+        width: 82
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4648c42b7179240bc8cb0eec05fd10
+      internalID: 7027758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 948
+        width: 78
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d23dd63a628e04b998dab91ed23a76
+      internalID: 2108598728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 948
+        width: 82
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bfddf36aa98df4cbcb94e5f01f6ca8
+      internalID: 1631792338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 948
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb0eef133e959443ab0f92494587e40
+      internalID: -221633529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_4
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 948
+        width: 89
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dae113b799191a4a98e7b42fde5ca34
+      internalID: 793458364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_5
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 948
+        width: 82
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b450d6da27d8d4e86855f65fd6c139
+      internalID: -137858440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_6
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 926
+        width: 93
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4c7edc15314e846a19bf4425e3df53
+      internalID: 550711617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_7
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 949
+        width: 88
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dc8f7b1617abc40bc894926acbdf44
+      internalID: 1841267513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_8
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 958
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9061c7997cdb944eb39ea854ce6956b
+      internalID: 905834344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_9
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 900
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b92516b83f63a848a6f6cf4986e23bc
+      internalID: 737191293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 820
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4537a8dcf7b8c5d48a7f8507a14e76e9
+      internalID: -1801260175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 820
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee3fef20989afd4fbfc1f694187c63c
+      internalID: 810860868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_12
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 820
+        width: 82
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712dfb3dfc17bca4fb0bc9ea5da4166c
+      internalID: 487030522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_13
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 796
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64a7a8a2a9490949aa2613ab20196fc
+      internalID: 1275757291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_14
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 796
+        width: 72
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32202146aa3cc284c910d167affdc5af
+      internalID: -589429653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_15
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 796
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d343e1feaec1f469856ea9d877ed33
+      internalID: -1428145392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_16
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 820
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e806b78f276d04788d3bdb9100b478
+      internalID: 140441560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_17
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 821
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c933f8c4357674984095291e273480
+      internalID: -1131270764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_18
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 840
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205b778402446894a8b74df44f17627d
+      internalID: -81562132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_19
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 768
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2687795687f256c40ac0ac49b3abd7e6
+      internalID: 929685705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_20
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 788
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b55ccbba7a535479823ce41466ed93
+      internalID: 896070008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_21
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 772
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830258fb93c8ba645b8ce3a2fea31b91
+      internalID: 1240935575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_22
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 792
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d1ef5a505522440bdf802d6057902e
+      internalID: 1566492594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_23
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 792
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f3e26187fa7fc408eeb489701fc1e2
+      internalID: -143858625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_24
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 788
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62007c01064e98143bc802c7b8887c86
+      internalID: -61723446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_25
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 709
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3a0ae04a1a5a040b68bfe3406c8761
+      internalID: -2040376689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_26
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 788
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c827c90cf90d99248bdc5c357354d080
+      internalID: -551494492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_27
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 709
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec08a73ed644c64496692ca16847bc7
+      internalID: 706387811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_28
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 764
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0919362919f8ae243ad993a3e5ce0e77
+      internalID: 645048392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 688
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5b9f26cb149c7479714e52211b15eb
+      internalID: -1298541384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_30
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 709
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866b3a6ee0a60bd42b152c6c8bda6f47
+      internalID: -492006220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_31
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 709
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870251758491c494093356a2382a0b67
+      internalID: 365065219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_32
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 709
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e214148f1f45214cb0ac866fbde7d39
+      internalID: -1459383384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_33
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 709
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477fd95b893c3f0488392acac31d86f8
+      internalID: 923754696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_34
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 709
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b90af034322d714fa8d486363e28cec
+      internalID: -1714259671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_35
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 740
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7967b64501b924eaa0c1f6dbfafc7d
+      internalID: -781375006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_36
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 660
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4ed35bac8a6f94f9208d7b580083a7
+      internalID: -846015241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 633
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04918a668a5bf224bbceb07017588625
+      internalID: 661572390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_38
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 652
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a8d3b7213526b489dea022db762ff6
+      internalID: 1030506738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_39
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 525
+        width: 84
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bc2f236979d324484ae2569fc58104
+      internalID: 1153212770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_40
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 644
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760e64b10f4f83846bf2cd42c100ad4b
+      internalID: -1869857223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_41
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 636
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3945ed85e85fb4b8be792f7ec3279c
+      internalID: 763150423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 592
+        width: 5
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568d2c3b7b9bdd4428461b89050c5c46
+      internalID: 1574139068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 580
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf4e67db29ddda4283834771be7e842
+      internalID: -417027463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 580
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0bb5b6a265b0d4aadf254efddcb7c2
+      internalID: -687134532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_45
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 580
+        width: 79
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5d3fdbbcafb7a46934bf79b2a4a6e2
+      internalID: -1832319116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_46
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 525
+        width: 88
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515cbc18b63b7f840a00260a7c1a67a1
+      internalID: 891127085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_47
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 556
+        width: 84
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703f909159c4dbb43b20b26cb336d0ec
+      internalID: 586461498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_48
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 560
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653cb40d79d238c4d87d092da132f6ad
+      internalID: 1853107906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_49
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 560
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cdbef0765b0004da90e06bac00a78b
+      internalID: -1771700697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_50
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 549
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717516a0c7babcc4fbd69a17c4e71b51
+      internalID: -1915530872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_51
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 548
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dba04b4eb0f444ba94dd06418f22c4
+      internalID: -1493844020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_52
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 551
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ad950e5061b0d42b6c8b104e8845fd
+      internalID: 1899177705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_53
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 548
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019c255008839344cb1986e0aa767b03
+      internalID: 1472508182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_54
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 550
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4a77566b1cdc4478d2312e5c692807
+      internalID: 275134915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_55
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 548
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabbb118c48cb9b40abb0c15f950806b
+      internalID: -1590487857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_56
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 549
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3d369fd9debf04db678fe34db1a97e
+      internalID: 837040104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_57
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 552
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82dccdaf2a813942a8c5aa90be7087d
+      internalID: 877420299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_58
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 552
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5b1b02b93afec4cbd9ffa928b62143
+      internalID: 2034961530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_59
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 552
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68be53e47b5c834698343df9d032f3d
+      internalID: -1891910619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_60
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 545
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6226e5bf4e2aa3040aea402227f18852
+      internalID: 924107976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_61
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 524
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c23577c6927fe44bc731fc68c3a74a
+      internalID: 91764088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_62
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 471
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4068c9b4386f5e47a55595da7e9e246
+      internalID: 2105419330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_63
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 524
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04539843003edfa4e9edfd3e4aebb0d9
+      internalID: 230127330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_64
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 524
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9882d6fc0af9c946bcbf831ee9b2976
+      internalID: -465602973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_65
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 524
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3015f51f71d47048a500db8f0fba239
+      internalID: 819268673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_66
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 524
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979b9bc942ba5404f8030a9c4e94eecb
+      internalID: -2061283970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_67
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 448
+        width: 94
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ca095f2f9257b45a9303d3a589ec51
+      internalID: -63642803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_68
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 524
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83ff08e60b731a45bfea845bf035f78
+      internalID: 1428668709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_69
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 452
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00322da04b96d5b44a2ed4bf6bb9e27d
+      internalID: 1614025270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_70
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 471
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817ddc9babf82b24b9ba7cec1c50fd47
+      internalID: -1373599412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_71
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 471
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6764f80aa78688a49bc783f190cef93b
+      internalID: 1963660320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_72
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 471
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219d57f8089f1ee41940a2359d1cd0b0
+      internalID: 1543503886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_73
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 471
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59b224415a8ec144a340a3f98f6b79d
+      internalID: -1446496395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_74
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 500
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf6b41891b841a43868ea053daaba4e
+      internalID: 808118202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_75
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 500
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d03da43cca089439e225acc9d20b91
+      internalID: 2137907822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_76
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 500
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4246248312bdb0045bda4104440aecec
+      internalID: -125421776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_77
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 471
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b514e73bf1bd9c46996b2169ec6a4fe
+      internalID: 1691120785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_78
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 448
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f4bc908c3f69243af8f75641866d0d
+      internalID: -1393939750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_79
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 496
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442cf1cfc8268a946ab9a4985ab82f0d
+      internalID: -463432317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_80
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 492
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50be504222dd60047ad894e5221f3fff
+      internalID: 298312450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_81
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 416
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037e240d2caf8074e8b5d37eda89069b
+      internalID: 765911065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 408
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccbb79d03bc6584ea59b67e6bd2d088
+      internalID: 1265675791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_83
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 316
+        width: 75
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca2711ae5f4ae348b1d35d4f2f674e6
+      internalID: 1658759062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_84
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 352
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af60f4c29972c04f9a0341a95792ec2
+      internalID: -1862190235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_85
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 343
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed585671d9d71c42926946460bc7e57
+      internalID: 1842929408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_86
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 340
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e48a8231593a0048af17b9ce5e0be59
+      internalID: 1325008843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_87
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 340
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d082aaf23e1ac514ca59b1fc9100b31d
+      internalID: 577768463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_88
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 340
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb25c972a931d642bf1210a1fa214cf
+      internalID: -397030594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_89
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 372
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737d9985bee85cb43a7c304325a7ca92
+      internalID: -1705567627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_90
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 372
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fffaadd4a7a4d468fb566ff3de213b
+      internalID: 960568199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_91
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 340
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8528eb9091f5441847fad2ce8bb054
+      internalID: -599645628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_92
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 312
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f76b0579e63e242a464a725a35f3b9
+      internalID: -1493500731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_93
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 312
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdafd443a4cbc274987249272b3ea495
+      internalID: -1859938487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_94
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 368
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa31164ae70baa4fafe8dbed8c16211
+      internalID: 2110735529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_95
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72c75297acf571488a6d8c83ddded61
+      internalID: -2146939928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_96
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 312
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb513dbc1699a814ca152877f8ccef5a
+      internalID: 1745142510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_97
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 312
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a043e6466e8a24cb375358d31ef745
+      internalID: -326179700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_98
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 312
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912e9fa2e59b9f7419dc1cffcf9f6750
+      internalID: 285585034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_99
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 312
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd3679a0c3edfb4694be7163b020999
+      internalID: -2049402628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_100
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 171
+        width: 80
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4aacd49c0642b49ab3f79f3f543478
+      internalID: -1522938459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_101
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 171
+        width: 75
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc157b0aa3669d47871c2bb89cc45c6
+      internalID: -1098486657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_102
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 248
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87de9f90da63111468ce264f30dec2c3
+      internalID: 656939848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_103
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 196
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa720552f83006b4eb505ee68fbdef69
+      internalID: 1423669922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_104
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 248
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa20db07b1aac2e419ba54f45e505cda
+      internalID: -560004095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_105
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 196
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2689b226bc1284fa4646f63187a2c9
+      internalID: -656555927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_106
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 193
+        width: 41
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9662ee160146448bb82118a1d6975c
+      internalID: -465016665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_107
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 231
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e86d7483e9ee0448a37485f3295c93
+      internalID: -35320052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_108
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 176
+        width: 82
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f4b810cd2ddcb4d96ebfb7e08987bf
+      internalID: 1797507634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_109
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 248
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518c7c6dfe2b31c4f835be3f0a3af91d
+      internalID: 863171829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_110
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 166
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d0d4b325ebfec49bbe27f9e7bec5c9
+      internalID: 684783192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_111
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 248
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df61546dfa7bde4ebd8683e32957e70
+      internalID: 1855751666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_112
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 166
+        width: 71
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0746aa30579a2ac4ca553fa29244867b
+      internalID: 1077593568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_113
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 236
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39e0f15f8906544e95c071e524fdbd0
+      internalID: 1125387763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_114
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 236
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293162ee81cdeec45a1ba9da9f4618e4
+      internalID: 2039253210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_115
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 216
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9237c7afaccdb3642a843917bb7703b8
+      internalID: 2027493638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_116
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 200
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4ca274993172c4a9730be025dd50ca
+      internalID: -434303641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_117
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 144
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bb6757c7d5850428057c6376595902
+      internalID: -1193368872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_118
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 80
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0918a4fd14d0c7f4ca19ffd31a34a69d
+      internalID: -137080804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_119
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 50
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323366de9317ed74bbd0ef0bd37d8802
+      internalID: 2093541252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_120
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 68
+        width: 78
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c40f92478201b548b1b8c7fd5d9c741
+      internalID: 809096702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_121
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 105
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2949d18946d01de46be34bae7b4e5a9b
+      internalID: 1921259191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_122
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 40
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a611eea965aaa145b1509194bcb63f6
+      internalID: 1569321869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_123
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 36
+        width: 53
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9055bdd35889740a29c881483882fa
+      internalID: 581003176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_124
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 36
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d785fc78bcb3c4b87f2a57722cbc64
+      internalID: 1707963440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_125
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 48
+        width: 68
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c772b3d26ace60478d8f94257bd61a9
+      internalID: -716343045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_126
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 103
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616c61e7b2557e24ea68c3e3fee6321d
+      internalID: 21432700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_127
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 48
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74deafdd3cccf3b44a7e3bf3cb2b998e
+      internalID: 1967587856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_128
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 48
+        width: 77
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b401a60b4bf3e8443a6bde055557acdc
+      internalID: -236040519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_129
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 88
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5560583da38d740854af69d463a8b0
+      internalID: 448038311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_130
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 88
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0738c2204aeaa94f8f51748bd8e9983
+      internalID: 2141048649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_131
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 68
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b5779ade45c33408a5f7a91241d59d
+      internalID: -904097732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_132
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 36
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafe6bc0d06ce6948b381425c7e271ed
+      internalID: -1645701661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_133
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 36
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd58f5505a27bd4e8f5520bfd9cdc62
+      internalID: -954476706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_0: 7027758
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_1: 2108598728
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_10: -1801260175
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_100: -1522938459
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_101: -1098486657
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_102: 656939848
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_103: 1423669922
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_104: -560004095
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_105: -656555927
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_106: -465016665
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_107: -35320052
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_108: 1797507634
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_109: 863171829
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_11: 810860868
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_110: 684783192
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_111: 1855751666
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_112: 1077593568
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_113: 1125387763
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_114: 2039253210
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_115: 2027493638
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_116: -434303641
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_117: -1193368872
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_118: -137080804
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_119: 2093541252
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_12: 487030522
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_120: 809096702
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_121: 1921259191
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_122: 1569321869
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_123: 581003176
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_124: 1707963440
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_125: -716343045
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_126: 21432700
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_127: 1967587856
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_128: -236040519
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_129: 448038311
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_13: 1275757291
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_130: 2141048649
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_131: -904097732
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_132: -1645701661
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_133: -954476706
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_14: -589429653
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_15: -1428145392
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_16: 140441560
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_17: -1131270764
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_18: -81562132
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_19: 929685705
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_2: 1631792338
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_20: 896070008
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_21: 1240935575
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_22: 1566492594
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_23: -143858625
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_24: -61723446
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_25: -2040376689
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_26: -551494492
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_27: 706387811
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_28: 645048392
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_29: -1298541384
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_3: -221633529
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_30: -492006220
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_31: 365065219
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_32: -1459383384
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_33: 923754696
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_34: -1714259671
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_35: -781375006
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_36: -846015241
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_37: 661572390
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_38: 1030506738
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_39: 1153212770
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_4: 793458364
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_40: -1869857223
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_41: 763150423
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_42: 1574139068
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_43: -417027463
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_44: -687134532
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_45: -1832319116
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_46: 891127085
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_47: 586461498
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_48: 1853107906
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_49: -1771700697
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_5: -137858440
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_50: -1915530872
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_51: -1493844020
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_52: 1899177705
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_53: 1472508182
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_54: 275134915
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_55: -1590487857
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_56: 837040104
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_57: 877420299
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_58: 2034961530
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_59: -1891910619
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_6: 550711617
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_60: 924107976
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_61: 91764088
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_62: 2105419330
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_63: 230127330
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_64: -465602973
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_65: 819268673
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_66: -2061283970
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_67: -63642803
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_68: 1428668709
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_69: 1614025270
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_7: 1841267513
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_70: -1373599412
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_71: 1963660320
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_72: 1543503886
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_73: -1446496395
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_74: 808118202
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_75: 2137907822
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_76: -125421776
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_77: 1691120785
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_78: -1393939750
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_79: -463432317
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_8: 905834344
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_80: 298312450
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_81: 765911065
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_82: 1265675791
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_83: 1658759062
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_84: -1862190235
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_85: 1842929408
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_86: 1325008843
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_87: 577768463
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_88: -397030594
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_89: -1705567627
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_9: 737191293
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_90: 960568199
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_91: -599645628
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_92: -1493500731
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_93: -1859938487
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_94: 2110735529
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_95: -2146939928
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_96: 1745142510
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_97: -326179700
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_98: 285585034
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Aya_99: -2049402628
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

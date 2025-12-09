@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 1123ea6f505b4624d937c3ba56253fd6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Realistic Explosion_0
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 226
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f83246183c3b844289165d843c709c5
+      internalID: -1582003812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Realistic Explosion_1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 225
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c340d23bdf734574095502af125c7df8
+      internalID: -2010102040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Realistic Explosion_2
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 306
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07f87a1e19ce2248bfb48fcff6a5afd
+      internalID: 1737907855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Realistic Explosion_3
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 224
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735e90de27937b24aa17adf3187b06c6
+      internalID: -876391294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Realistic Explosion_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 242
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606ee97da7574894490f98b0c40975e9
+      internalID: -373044164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Realistic Explosion_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 234
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4a24629658c064e92f4b96b1589e3e
+      internalID: -657171188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Realistic Explosion_6
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 230
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316a43afbdebfe843baa0f62b8d4d1fe
+      internalID: 387758536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Realistic Explosion_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 118
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b534c7789e5ec8b4db70454229e971da
+      internalID: -172951051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Realistic Explosion_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 125
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f9097484dcc1f48ac04473ad11799b
+      internalID: 199383979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Realistic Explosion_9
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 210
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b87ca3eb34ccb4b8b842211bb85287
+      internalID: -944940429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Realistic Explosion_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 125
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdf6fcb4b989fb439b5c041f7a6356c
+      internalID: 749961097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Realistic Explosion_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 213
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.6190376, y: 0.6190357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9541e33601f5c4a8fe417e40bdc430
+      internalID: -1621528027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Realistic Explosion_12
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 133
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce592dff4f2920b4c8f6a22223f2ccf4
+      internalID: 32060326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Realistic Explosion_13
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 138
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3aaade0c73ed2489085c3098f2aebe
+      internalID: 1208101368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Realistic Explosion_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 127
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251990833a5d9a54ea603bdf27db14c8
+      internalID: 1887136749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Realistic Explosion_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 11
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57da75375efaa6c4b859764fffcedde3
+      internalID: -894554436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Realistic Explosion_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 49
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a85684bf417da14ca470f7a12ae1b25
+      internalID: 1034324086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Realistic Explosion_17
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 52
+        width: 12
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29038316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b77446d6ec04c4dbbe22a6d8fba977
+      internalID: 1998221167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Realistic Explosion_18
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 46
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2936cc487e2515b4d93711c4b83b152a
+      internalID: -1063337681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Realistic Explosion_19
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 93
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29e808f5ba8bfa429f417c97fda543a
+      internalID: -611053001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Realistic Explosion_20
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 30
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.3427868, y: 0.50000095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca11221346c34a34cb3ded7551ac3006
+      internalID: 398181729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Realistic Explosion_21
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 64
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a5ea61682540c4fbeb02f7a5e25d55
+      internalID: 1316559246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Deltarune - Realistic Explosion_0: -1582003812
+      PC Computer - Deltarune - Realistic Explosion_1: -2010102040
+      PC Computer - Deltarune - Realistic Explosion_10: 749961097
+      PC Computer - Deltarune - Realistic Explosion_11: -1621528027
+      PC Computer - Deltarune - Realistic Explosion_12: 32060326
+      PC Computer - Deltarune - Realistic Explosion_13: 1208101368
+      PC Computer - Deltarune - Realistic Explosion_14: 1887136749
+      PC Computer - Deltarune - Realistic Explosion_15: -894554436
+      PC Computer - Deltarune - Realistic Explosion_16: 1034324086
+      PC Computer - Deltarune - Realistic Explosion_17: 1998221167
+      PC Computer - Deltarune - Realistic Explosion_18: -1063337681
+      PC Computer - Deltarune - Realistic Explosion_19: -611053001
+      PC Computer - Deltarune - Realistic Explosion_2: 1737907855
+      PC Computer - Deltarune - Realistic Explosion_20: 398181729
+      PC Computer - Deltarune - Realistic Explosion_21: 1316559246
+      PC Computer - Deltarune - Realistic Explosion_3: -876391294
+      PC Computer - Deltarune - Realistic Explosion_4: -373044164
+      PC Computer - Deltarune - Realistic Explosion_5: -657171188
+      PC Computer - Deltarune - Realistic Explosion_6: 387758536
+      PC Computer - Deltarune - Realistic Explosion_7: -172951051
+      PC Computer - Deltarune - Realistic Explosion_8: 199383979
+      PC Computer - Deltarune - Realistic Explosion_9: -944940429
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
