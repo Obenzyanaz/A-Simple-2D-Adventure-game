@@ -1,0 +1,646 @@
+fileFormatVersion: 2
+guid: 088e030240215c5419b4f34b1292d9a8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Miscellaneous Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 151
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26862092eb61a824e8d558b05f920c1e
+      internalID: -1265024185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Miscellaneous Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 151
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a2a7e1b8d32484d873f045cbfd7d00
+      internalID: 896336679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Miscellaneous Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 156
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d892c6f2b0b66d94ca3a03df71b9ddbb
+      internalID: -1291673719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Miscellaneous Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 156
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd9a1c5ac699094d810008fca276b8f
+      internalID: 1581555179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Miscellaneous Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 157
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c5907b88ade1947b0dd21ba5c75493
+      internalID: 1625131420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Miscellaneous Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 156
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8588bbe3c5b674793b39bdf95a3cab
+      internalID: 1119391249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Miscellaneous Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 129
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c69c8aad16b714ab75e0394b700ac5
+      internalID: 771549355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Miscellaneous Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 107
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44c2c68345dd3c429dae655326a9aad
+      internalID: 1427302064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Miscellaneous Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 107
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a5777ca3a72cc4d957b1f48e76e25b
+      internalID: -1490358125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Miscellaneous Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 56
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44256f3cf33a5eb4b9fb2bbe698f5757
+      internalID: -1534353582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Miscellaneous Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 53
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bd83ae82e72c740b0dce9341f875c3
+      internalID: 309696513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Miscellaneous Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 56
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4992d7e54b60d4fa4da22516ad1b57
+      internalID: 1558906233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Miscellaneous Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 56
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d991ff8d36d6f45be5886d2d176739
+      internalID: -795394496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Miscellaneous Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 44
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140d820e9dc1a484f9a09d74030be65d
+      internalID: 41470319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Miscellaneous Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 43
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a194b22b3a5bd842a872df243e85bb5
+      internalID: 1035929284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Miscellaneous Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 43
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab32de6d31a87047b23459616ae2447
+      internalID: 605848367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Miscellaneous Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 43
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b683facd2ad244887237d73f01825e
+      internalID: 1020354502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Miscellaneous Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 43
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abae0fe56dcb310458b5dcf5959e914e
+      internalID: -65118652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Miscellaneous Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 28
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4b2a7580ff2d64b98f057e31604aae
+      internalID: -756235501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Miscellaneous Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 16
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536e3ae52f792794c940c8e95b339e7f
+      internalID: -1211921014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Miscellaneous Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 16
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de158c0eee2c2944fa1ae97507b72545
+      internalID: 1105737844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Miscellaneous Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 16
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91caecc5c3534494abcfdd52e76ed51a
+      internalID: -520899091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Miscellaneous Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 16
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000b022597dc8aa4f958edb535401d28
+      internalID: 682128033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Miscellaneous Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08542fa4b6458584f8ef62a8b1d7ab50
+      internalID: -299456133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Deltarune - Miscellaneous Sprites_0: -1265024185
+      PC Computer - Deltarune - Miscellaneous Sprites_1: 896336679
+      PC Computer - Deltarune - Miscellaneous Sprites_10: 309696513
+      PC Computer - Deltarune - Miscellaneous Sprites_11: 1558906233
+      PC Computer - Deltarune - Miscellaneous Sprites_12: -795394496
+      PC Computer - Deltarune - Miscellaneous Sprites_13: 41470319
+      PC Computer - Deltarune - Miscellaneous Sprites_14: 1785643647
+      PC Computer - Deltarune - Miscellaneous Sprites_15: 1035929284
+      PC Computer - Deltarune - Miscellaneous Sprites_16: 605848367
+      PC Computer - Deltarune - Miscellaneous Sprites_17: 1775023296
+      PC Computer - Deltarune - Miscellaneous Sprites_18: 1020354502
+      PC Computer - Deltarune - Miscellaneous Sprites_19: -66717828
+      PC Computer - Deltarune - Miscellaneous Sprites_2: -1291673719
+      PC Computer - Deltarune - Miscellaneous Sprites_20: 29251459
+      PC Computer - Deltarune - Miscellaneous Sprites_21: -65118652
+      PC Computer - Deltarune - Miscellaneous Sprites_22: -756235501
+      PC Computer - Deltarune - Miscellaneous Sprites_23: -1211921014
+      PC Computer - Deltarune - Miscellaneous Sprites_24: 1105737844
+      PC Computer - Deltarune - Miscellaneous Sprites_25: -520899091
+      PC Computer - Deltarune - Miscellaneous Sprites_26: 682128033
+      PC Computer - Deltarune - Miscellaneous Sprites_27: -299456133
+      PC Computer - Deltarune - Miscellaneous Sprites_3: 1581555179
+      PC Computer - Deltarune - Miscellaneous Sprites_4: 1625131420
+      PC Computer - Deltarune - Miscellaneous Sprites_5: 1119391249
+      PC Computer - Deltarune - Miscellaneous Sprites_6: 771549355
+      PC Computer - Deltarune - Miscellaneous Sprites_7: 1427302064
+      PC Computer - Deltarune - Miscellaneous Sprites_8: -1490358125
+      PC Computer - Deltarune - Miscellaneous Sprites_9: -1534353582
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

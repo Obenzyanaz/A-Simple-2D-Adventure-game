@@ -1,0 +1,623 @@
+fileFormatVersion: 2
+guid: 99ca3085089ebf545a75634ba547a8ab
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi
+        2_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5574
+        width: 47
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6208827eeeed2489b248089007a20a
+      internalID: -1424409782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi
+        2_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 5574
+        width: 48
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b45ae7b8acb135499e3d5028724af82
+      internalID: -152839864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi
+        2_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 5574
+        width: 44
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb6e5eeff315b94a812a1eb08dfc1e4
+      internalID: -303773606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi
+        2_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 5574
+        width: 48
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9274682b0220aa340b72468c31c87056
+      internalID: 1912946846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi
+        2_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 5574
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f2dad1d14aced4fbccb65316140fe4
+      internalID: -1439117885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi
+        2_5
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 5574
+        width: 47
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b86ea7e6f9c1c94fa9ddef18467e0be
+      internalID: -714770011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi
+        2_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 4590
+        width: 51
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6db4277f394994eadc6459e724e22c
+      internalID: 2054618989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi
+        2_7
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 4590
+        width: 47
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894b3531ea2426a48a7ec1b2cdf2c7c6
+      internalID: -2102871582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi
+        2_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 4590
+        width: 48
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1dfacf5d35599c41806e25bcf84629d
+      internalID: -1605794874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi
+        2_9
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 4590
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab67c24e9e7b3cd4b9314437e7dfc706
+      internalID: 1178448010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi
+        2_10
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 4590
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bab39af218dd04d95bddf70f466a0c
+      internalID: 7281300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi
+        2_11
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 4590
+        width: 50
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8f7d82f649c78429b62a95eb70a74c
+      internalID: -678730327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi
+        2_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 136
+        width: 66
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1d5d52d7f2ecc47a6bea8613da9bba
+      internalID: -935874919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi
+        2_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 136
+        width: 69
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e0e22f499407641af26f2d0b763e0d
+      internalID: -388698570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi
+        2_14
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 136
+        width: 71
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2532efbc8811ed438602b57c3388616
+      internalID: 1352201672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi
+        2_15
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 136
+        width: 75
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f62aa3c6e7db447adb47a8f4666315
+      internalID: 1209479886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi
+        2_16
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 136
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c82d2930ed0ff74d9a50716343d519f
+      internalID: 1841697010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi
+        2_17
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 136
+        width: 45
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34575b5a08bcdd646a75812f42bd3031
+      internalID: -1490672931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi
+        2_18
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 136
+        width: 59
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9909398f36fa4de4aa4c476eda5dd825
+      internalID: 258186457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi
+        2_19
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 136
+        width: 57
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28d8ed7e863c554da007f72ed84771c
+      internalID: -207963168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi
+        2_20
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 136
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a92671875ed69429ee6db3fc65a2f5
+      internalID: -1357902830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi 2_0: -1424409782
+      PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi 2_1: -152839864
+      PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi 2_10: 7281300
+      PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi 2_11: -678730327
+      PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi 2_12: -935874919
+      PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi 2_13: -388698570
+      PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi 2_14: 1352201672
+      PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi 2_15: 1209479886
+      PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi 2_16: 1841697010
+      PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi 2_17: -1490672931
+      PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi 2_18: 258186457
+      PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi 2_19: -207963168
+      PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi 2_2: -303773606
+      PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi 2_20: -1357902830
+      PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi 2_3: 1912946846
+      PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi 2_4: -1439117885
+      PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi 2_5: -714770011
+      PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi 2_6: 2054618989
+      PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi 2_7: -2102871582
+      PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi 2_8: -1605794874
+      PC Computer - Touhou Hisouten Scarlet Weather Rhapsody - Sakuya Izayoi 2_9: 1178448010
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3295 @@
+fileFormatVersion: 2
+guid: 39fa445fa51cd1248ba5ea3fed47da42
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 361
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a35735867c30de4cb9496b80657c0db
+      internalID: 463715915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 362
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6b84104cd6aac4ea0a4dd37a3a369f
+      internalID: -109100103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 362
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3334576851a83642b8a9a2c1883b1db
+      internalID: -375257787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_3
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 361
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec0fdc2548817a46b4141054f97f378
+      internalID: 1842568351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 362
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbab6d40b72b74b4aba193e28bdf8309
+      internalID: 1981845445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 362
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b092777f761179a4ebb7b1e029dce002
+      internalID: -1055529492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 361
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f4800514941c24fbc22ca7eba16b1c
+      internalID: -1435792022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_7
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 362
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f209fbe35ab9c1e4bba1460eb69ee00b
+      internalID: 66039386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 362
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811662c0e884ec4408a667b6ba275842
+      internalID: -1116617203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_9
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 361
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f679b33ff80c542a025bbd6af86c78
+      internalID: -350299861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_10
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f0e9f8cac4fc242bb23b146b37dcbc
+      internalID: -982873157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_11
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18716c57f51226c4f9f087d51ee30313
+      internalID: 1950201936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 329
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cc50468314df147843e51abbfa7d07
+      internalID: -1044671231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 330
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1352eb95107297d4993e8be284accbda
+      internalID: -1085420647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 330
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795ee78d7d6382f44973f592a8cbc875
+      internalID: 1844653298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 329
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9483f8b0c4c627e41af26260bc2aba1c
+      internalID: 1426636799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_16
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 330
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026f2764361f10043a2803e725d759cf
+      internalID: 1813860518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_17
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 330
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a9331320aed174ab75595856964a87
+      internalID: -1455465244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_18
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 329
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8125646a30ffb64e92c6212ac1e97c8
+      internalID: -894271947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_19
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 330
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5413e3d39947f94c922befce57a6f0c
+      internalID: -1544444483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_20
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 330
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cd0bfcd96120140866c21e823a908c
+      internalID: 1689251016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_21
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 329
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b22d742fd14a0f468073836d227e2b1
+      internalID: -1821382021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_22
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 330
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcc045c45dd0d745b99dbb7a55c62cf
+      internalID: -1076728852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_23
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 330
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751964f03ea6ab44697c12ce4f267f5e
+      internalID: -76679918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 297
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa06131f672f0284d80d4f887b648977
+      internalID: 1929815771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_25
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 298
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0b74ae7089c1c4b9d7663c64c9d80f
+      internalID: 420959908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_26
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 298
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1139b46450c9c4889f2d366bcd3076
+      internalID: -973069209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_27
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 297
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d6bb657186c544fa57f6ac65f37df4
+      internalID: -1056574869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_28
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 298
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ef5ec34c5bd174b8e6831e0087a60e
+      internalID: 843358566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_29
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 298
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8aef876da55d1e4c9d66e2c2f21d730
+      internalID: 2070569244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_30
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 297
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dceb748388df5964ba41f48648f0394b
+      internalID: -523398006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_31
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 298
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4323b047c8153d46b093ec4850e48b0
+      internalID: -1478446569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_32
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 298
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60e6cb09c6e3c046868490614b31919
+      internalID: 810423759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_33
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 297
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4863a06b9ba500e43ae283dfc8ee9dba
+      internalID: -1328073074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_34
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 298
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e73441783d01b45b4807e9b6958e28
+      internalID: 1077219688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_35
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 298
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1920407a13e084bacdab6e2d243ef5
+      internalID: 748942920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 265
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682285690f2d53740a967b6863ad48f6
+      internalID: 635975672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_37
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 266
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a57173c48fc7a34f9b572a40633f3fa
+      internalID: 1410062150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_38
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 266
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fbc6cf110f51948947dfdb010a48a1
+      internalID: 1309646435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_39
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 265
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b4af9223b97114cb1db165eb10c35d
+      internalID: -121714051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_40
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 266
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c527c3f6ad456640bf4e4026d5aa57c
+      internalID: 339919949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_41
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 266
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d35e36619ddd044da21287647d3cf66
+      internalID: -1786468574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_42
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 265
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a981ffdb68ee344499b319aeca1f92b9
+      internalID: -850476523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_43
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 266
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c23b4e287406a4687ef47f90510815
+      internalID: -1194109845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_44
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 266
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06abc680689d41408429ca3cfa556cd
+      internalID: -282583776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_45
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 265
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa66b02cf972d849b1aab2bea23d49f
+      internalID: -1767360741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_46
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 266
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6be6286e35923f44bee7e219ac8ba4f
+      internalID: -1278893167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_47
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 266
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eeb4bf4cbd84594d8effaa1a25861c4
+      internalID: 773667834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_48
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 236
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542c9c70040cc1140be0ceb638501d96
+      internalID: 894498138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_49
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 237
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62fd9deeea619f4b9f13490ebdf3865
+      internalID: -1809078624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_50
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 237
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf6b966482da0f4c86aba80c4937225
+      internalID: 589952733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_51
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 236
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f975de5c65d4a7647a0a3e5122b2ae05
+      internalID: 759662796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_52
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 237
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1807560048f45448b12d9d9ed8f52d
+      internalID: 687543641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_53
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 237
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7097cdc3694639149ba03052fc73c3c6
+      internalID: -1210111649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_54
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 236
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2be3e5dc62d274886fee439dab7438
+      internalID: 2035389759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_55
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 237
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353aff03bb869124c80a3c6a5220ed06
+      internalID: -1692931083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_56
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 237
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86141732c77611c469e17d46890f584e
+      internalID: 1557306386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_57
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 236
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ae573baece785478d48af719490d28
+      internalID: -1852813697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_58
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 237
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207cd3da2a5d0fa4da7c13995500777c
+      internalID: 1707780772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_59
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 237
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38761c7855a738842b341545cc036c37
+      internalID: 133717460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 205
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adc24b812996274aa1a872682087a0e
+      internalID: -1595248707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 206
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6db2e129372554ba5cc200b64a5f91
+      internalID: -1973216980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 206
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88f5a04d07f89d4d85a5a1cf58f0133
+      internalID: 383048410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_63
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 205
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3284a8a1e0fe2cc44b40d3c03c783a3a
+      internalID: 440970702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_64
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 206
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d578d937627fee43808b4ad563b8171
+      internalID: 718002357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_65
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 206
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4859cd5df9e7b42a0a6611b7515afe
+      internalID: 304170016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_66
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 205
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fcec6d1fbaa5a4fa90bbb3ebe4baf3
+      internalID: 1090974605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_67
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 206
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dc664612c30c04b99911a2d9be6a5f
+      internalID: -1357392361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_68
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 206
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7767e5ba70afdcf4a97d9e8412ca6567
+      internalID: 1460495855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_69
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 205
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e36f6dc1c5d3b040bd0f28ade37021e
+      internalID: -1137934208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_70
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 206
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cf668e114f8ba4486c98af67593b89
+      internalID: 498578056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_71
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 206
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccc3dfa09810f24fbcb6911267064d9
+      internalID: -1384507758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_72
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 173
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78833e58c28f36459584b754840e30a
+      internalID: 967452329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_73
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 174
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6a8c18dcdfa3b48b5aeb9a03f1157e
+      internalID: -1539613511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_74
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 174
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644773efb13c9eb4babf943bf9c961d0
+      internalID: 1503600109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_75
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 173
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5ebc2972c4b1c43beb8401d9cf7550
+      internalID: 804717273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_76
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 174
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0c7c141062a7740b5987ad2d7ca455
+      internalID: 98275121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_77
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 174
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dd5f7d2f4c9c042b2aac10935d6351
+      internalID: 614252142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_78
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 173
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4c9697b0f803b42b636cafaf1c0171
+      internalID: -810867294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_79
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 174
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34097f2423895e469f0e881afc84b1d
+      internalID: -1514861850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_80
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 174
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f2c15229926204b9392b94cba21e00
+      internalID: 680266782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_81
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 173
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ad38df8e99952419428280d572b0e0
+      internalID: -796513062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_82
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 174
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf056523bd356840a8e821a70fa915f
+      internalID: 1906693959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_83
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 174
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8e72e666f715d4ea6b840066ecc931
+      internalID: 1163766060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_84
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 143
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516e736ec35656242b36eb5fb2d79665
+      internalID: 1186627604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_85
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 144
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c89296e6c08ec44835220fb59643d6
+      internalID: -424132842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_86
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 144
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538e2c57e6e01814cb514d7df4645319
+      internalID: -675263764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_87
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 143
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a458871441b7694c9cc6a490557d7bd
+      internalID: 1005489910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_88
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 144
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dff315a86263646bba64f109dd514d
+      internalID: 700038690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_89
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 144
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c77275aac9dbd4499adadc15cfe5a3
+      internalID: -991367795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_90
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 143
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bf0b983d4e1c048a8e0cf2a20aa169
+      internalID: -1779734748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_91
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 144
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0dabadf9ca67d4e9e31fac74956b7c
+      internalID: 308670181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_92
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 144
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f1facc7a9146b40a999f4c75216c69
+      internalID: 802765009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_93
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 143
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e358a28cdb03d4a9b8d50644cf72d6
+      internalID: -719635228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_94
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 144
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca83feb3da24494d85734c58923cd86
+      internalID: -815180654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_95
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 144
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858d88a64083b084cb3677421acd3a71
+      internalID: -413470831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_96
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 112
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607a7e1f4708cc3459cdd811e193ae8b
+      internalID: 318539173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_97
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 112
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c673eef3dfbe886419151bf6abae24c6
+      internalID: 1152120662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_98
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 112
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd55bee338e8415448f33d57bdff15fd
+      internalID: -99479072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_99
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 112
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dda74f86419244b98dd20421d8334c
+      internalID: 516423872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_100
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 112
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff20c8321dfbc8d4e81a37f338f69a00
+      internalID: 648314023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_101
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 112
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50792de7b6244454daa476ff523d1510
+      internalID: 1205642086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_102
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 112
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d0372b9f6a6464da324e620db15002
+      internalID: -1686752770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_103
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 112
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684e9abbc0239ce479ff0b1111000711
+      internalID: 984102264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_104
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 112
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2f304660f79c84887945076db04ad2
+      internalID: -1378787894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_105
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 112
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1888574b9fe1184a965c9951c30d7eb
+      internalID: -511256036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_106
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 112
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa805a36bd85f384095e7e539f60ddae
+      internalID: 1614369233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_107
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 112
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db66653e70d19f14e91ea2e917a3c34f
+      internalID: -72311735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_108
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 79
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e22ae7a991028f49a34b5174b29f06e
+      internalID: -1219966808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_109
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 79
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78b733965e20404182fbc179c06ecc2
+      internalID: -676779010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_110
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 79
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d556021effab98047aede06f38f6865b
+      internalID: -702669418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_111
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 79
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9646ad8519ecb5b44a1d910453b0c45a
+      internalID: -1478075995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_112
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 79
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643548124827fdb4d938946c2a64a143
+      internalID: 1283282353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_113
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 79
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d9d9ec2af64164a8f0d179e7e78cc1
+      internalID: -1740917825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_114
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 79
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac4602af314eb04c95a96683424dc46
+      internalID: 459808718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_115
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 79
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e160b20aef906d4397bc5cf1ab5afd4
+      internalID: -16233715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_116
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 79
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198ffbbad530b814589e15122c74f80f
+      internalID: 1952564227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_117
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 79
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f9cf658a97401479dd533d51305d58
+      internalID: -297132192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_118
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 79
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aad56733693e334ba33fe5be0e6a22a
+      internalID: -73001351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_119
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 79
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1df4670fc959224d83644d42d5db4a8
+      internalID: 1331922192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_120
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 47
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b528f3d9f67ec4d81285792c292e72
+      internalID: -48525919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_121
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 47
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b8fefd0b36c36429cb57da343244a2
+      internalID: -212316350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_122
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 47
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41552bbc66de08645a69e55b031a6008
+      internalID: -864599965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_123
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 47
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07db79e5d80bdf64b88be41e947bd606
+      internalID: -12969821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_124
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 47
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d54fc8921c5d547acbed4ec8b2a482
+      internalID: -1312131455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_125
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 47
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7271e2dc992a60345979437e849d51f8
+      internalID: 1764967403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_126
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 47
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586b9ad9f1ba96f47836fa9dba17da6d
+      internalID: 969111142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_127
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 47
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66e4569eaea14b49828a1a2864656bb
+      internalID: -1018308152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_128
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 47
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42a831656b30254ea3cd37c68f9efa8
+      internalID: 607352451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_129
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 47
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42de1a97c77974040af0a296f45759db
+      internalID: 870509383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_130
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 47
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94196b95f7c253640b0f915942d4bd3b
+      internalID: 476238318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_131
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 47
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1914ad40f589a54cb8b58c9a71eb284
+      internalID: 1537689733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_132
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 14
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d1c0c1eb0fa3c4fbb89f836a8716a0
+      internalID: -489673542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_133
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 14
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f48f23852e39f45aed505ecafb9e2a
+      internalID: -1064185266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_134
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 14
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377b1e2058e21fa48b9f0ea0c61b517c
+      internalID: -935760506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_135
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 14
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac05acca74f685449eb44eec5384c1f
+      internalID: 1423490199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_136
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 14
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d48b4dd659f35e4e81024b661e19191
+      internalID: 1149562734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_137
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 14
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4549db40f76a55345b2fc75ce79cc1fd
+      internalID: 664758076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_138
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 14
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73018fe8bd85ae40ad76ab7c0eb7257
+      internalID: -552240209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_139
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 14
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cf8e658e66f8247a0b2acc31a4c29d
+      internalID: -1058040365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_140
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 14
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd215d5db197bf4ebb7838095d564c9
+      internalID: 1983103607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_141
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 14
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b481c783d74a246b8f67185ab484ef
+      internalID: 1309528078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_142
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 14
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb2a7799bce4af46b36b5271ff9bc22
+      internalID: 281895140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_143
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 14
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4230fe08cc0752438239d1c29ff0bca
+      internalID: 462888042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_0: 463715915
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_1: -109100103
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_10: -982873157
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_100: 648314023
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_101: 1205642086
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_102: -1686752770
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_103: 984102264
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_104: -1378787894
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_105: -511256036
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_106: 1614369233
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_107: -72311735
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_108: -1219966808
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_109: -676779010
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_11: 1950201936
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_110: -702669418
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_111: -1478075995
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_112: 1283282353
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_113: -1740917825
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_114: 459808718
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_115: -16233715
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_116: 1952564227
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_117: -297132192
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_118: -73001351
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_119: 1331922192
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_12: -1044671231
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_120: -48525919
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_121: -212316350
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_122: -864599965
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_123: -12969821
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_124: -1312131455
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_125: 1764967403
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_126: 969111142
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_127: -1018308152
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_128: 607352451
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_129: 870509383
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_13: -1085420647
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_130: 476238318
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_131: 1537689733
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_132: -489673542
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_133: -1064185266
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_134: -935760506
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_135: 1423490199
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_136: 1149562734
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_137: 664758076
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_138: -552240209
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_139: -1058040365
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_14: 1844653298
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_140: 1983103607
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_141: 1309528078
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_142: 281895140
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_143: 462888042
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_15: 1426636799
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_16: 1813860518
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_17: -1455465244
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_18: -894271947
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_19: -1544444483
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_2: -375257787
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_20: 1689251016
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_21: -1821382021
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_22: -1076728852
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_23: -76679918
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_24: 1929815771
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_25: 420959908
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_26: -973069209
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_27: -1056574869
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_28: 843358566
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_29: 2070569244
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_3: 1842568351
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_30: -523398006
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_31: -1478446569
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_32: 810423759
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_33: -1328073074
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_34: 1077219688
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_35: 748942920
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_36: 635975672
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_37: 1410062150
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_38: 1309646435
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_39: -121714051
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_4: 1981845445
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_40: 339919949
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_41: -1786468574
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_42: -850476523
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_43: -1194109845
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_44: -282583776
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_45: -1767360741
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_46: -1278893167
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_47: 773667834
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_48: 894498138
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_49: -1809078624
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_5: -1055529492
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_50: 589952733
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_51: 759662796
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_52: 687543641
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_53: -1210111649
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_54: 2035389759
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_55: -1692931083
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_56: 1557306386
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_57: -1852813697
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_58: 1707780772
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_59: 133717460
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_6: -1435792022
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_60: -1595248707
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_61: -1973216980
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_62: 383048410
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_63: 440970702
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_64: 718002357
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_65: 304170016
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_66: 1090974605
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_67: -1357392361
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_68: 1460495855
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_69: -1137934208
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_7: 66039386
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_70: 498578056
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_71: -1384507758
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_72: 967452329
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_73: -1539613511
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_74: 1503600109
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_75: 804717273
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_76: 98275121
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_77: 614252142
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_78: -810867294
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_79: -1514861850
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_8: -1116617203
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_80: 680266782
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_81: -796513062
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_82: 1906693959
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_83: 1163766060
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_84: 1186627604
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_85: -424132842
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_86: -675263764
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_87: 1005489910
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_88: 700038690
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_89: -991367795
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_9: -350299861
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_90: -1779734748
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_91: 308670181
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_92: 802765009
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_93: -719635228
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_94: -815180654
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_95: -413470831
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_96: 318539173
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_97: 1152120662
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_98: -99479072
+      PC Computer - Touhou Puppet Dance Performance Touhoumon - Mystia (1)_99: 516423872
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

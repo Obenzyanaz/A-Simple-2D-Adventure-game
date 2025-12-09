@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: cac85d12f3d32bb4989fff81ea82b47f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Sumireko
+        Usami_0
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 8907
+        width: 181
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8866699a541ef242ba8de93433d211a
+      internalID: -989098945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Sumireko
+        Usami_1
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 8907
+        width: 174
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd42d863d36a474093080c2d37cdb27
+      internalID: 1952374116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Sumireko
+        Usami_2
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 8922
+        width: 177
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15400401c4e8f804592cadf279651072
+      internalID: 2034062719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Sumireko
+        Usami_3
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 8924
+        width: 152
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04719a345930ce4a9909395077bf55d
+      internalID: -862807759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Sumireko
+        Usami_4
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 8923
+        width: 171
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffa7f40ea62f344f87f837f45d9c891
+      internalID: 1281840618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Sumireko
+        Usami_5
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 8917
+        width: 189
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3809c26e6ce8542aad9879d7dcd3ad
+      internalID: -1913877682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Sumireko
+        Usami_6
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 8920
+        width: 192
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e37356a705f0d4b82912063608f800
+      internalID: 1920498715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Sumireko
+        Usami_7
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 8918
+        width: 194
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc727a3f92dd66342b15068d886f3e2c
+      internalID: -1971586750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Sumireko
+        Usami_8
+      rect:
+        serializedVersion: 2
+        x: 3138
+        y: 8922
+        width: 182
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b4900b6208f034b96487c9d52687c7
+      internalID: -9931820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Sumireko
+        Usami_9
+      rect:
+        serializedVersion: 2
+        x: 3535
+        y: 8929
+        width: 186
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05436b8bc128d5f40a74023d27e0a18d
+      internalID: -1303879042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Sumireko
+        Usami_10
+      rect:
+        serializedVersion: 2
+        x: 3924
+        y: 8929
+        width: 204
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c971664c1ea98084893924ac1b3ce633
+      internalID: 261426380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Sumireko
+        Usami_11
+      rect:
+        serializedVersion: 2
+        x: 4342
+        y: 8928
+        width: 190
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0a1c1f9065a2e4b951809f883ce94c
+      internalID: 293532952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Sumireko
+        Usami_12
+      rect:
+        serializedVersion: 2
+        x: 4746
+        y: 8919
+        width: 205
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac52823ee0375948a4832a121cc8226
+      internalID: 1104534181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Sumireko Usami_0: -989098945
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Sumireko Usami_1: 1952374116
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Sumireko Usami_10: 261426380
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Sumireko Usami_11: 293532952
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Sumireko Usami_12: 1104534181
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Sumireko Usami_2: 2034062719
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Sumireko Usami_3: -862807759
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Sumireko Usami_4: 1281840618
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Sumireko Usami_5: -1913877682
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Sumireko Usami_6: 1920498715
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Sumireko Usami_7: -1971586750
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Sumireko Usami_8: -9931820
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Sumireko Usami_9: -1303879042
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

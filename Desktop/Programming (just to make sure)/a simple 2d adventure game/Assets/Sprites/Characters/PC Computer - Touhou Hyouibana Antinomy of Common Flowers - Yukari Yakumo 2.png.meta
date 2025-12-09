@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 9098589cf5af34341a57d53c97de010a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo
+        2_0
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 9158
+        width: 52
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a96b3ef070c9964f9ce60cc0a6eac82
+      internalID: 694059161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo
+        2_1
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 9120
+        width: 84
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2671651de3bd02148b1f0cc3b2221e5d
+      internalID: -831023881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo
+        2_2
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 9115
+        width: 86
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c9d443673fad64ea1c5123e919a552
+      internalID: 1653183994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo
+        2_3
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 9109
+        width: 89
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53206cf9f624ea844bc4946c5b5fcec7
+      internalID: 1959537279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo
+        2_4
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 9109
+        width: 110
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931f76b6316216b40b7cd3024f143800
+      internalID: 394967810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo
+        2_5
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 9109
+        width: 121
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc39e7be0910c5c4e831bb495c4764b9
+      internalID: -1822441110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo
+        2_6
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 9109
+        width: 128
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c50adf81bbe404eb5c2ac2a65eb811
+      internalID: 724811167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo
+        2_7
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 9109
+        width: 132
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342dfadc98c9a3e4f9db1029325cfa6d
+      internalID: 923264726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo
+        2_8
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 9109
+        width: 134
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3500371c9c3cf2489a51c78932c1922
+      internalID: 811551804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo
+        2_9
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 9109
+        width: 143
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1907ed813e8cf2e4c9c68469dda6d288
+      internalID: -1055510865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo
+        2_10
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 9127
+        width: 178
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d054a69c8338b4e852dc22af4b1459
+      internalID: 813742581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo
+        2_11
+      rect:
+        serializedVersion: 2
+        x: 3027
+        y: 9170
+        width: 247
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7a846ec7578d84e9ef82cc6aed3d6a
+      internalID: 1744240570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo
+        2_12
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 9169
+        width: 243
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6614fc2fc93c4f94d8917edbffd7bd29
+      internalID: -852070492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo
+        2_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8920
+        width: 223
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa44816a495fde84f9efd7617bba4b3e
+      internalID: -353458381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo
+        2_14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 8921
+        width: 224
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa1220829202f24cb2131b95f6f3e31
+      internalID: -535494701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo
+        2_15
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 8922
+        width: 223
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027413fdc8d4d224890b62023a608dce
+      internalID: -1418433033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo
+        2_16
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 8922
+        width: 223
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551779000e6f1984abf94a8ee2fab222
+      internalID: -1141923019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo
+        2_17
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 8921
+        width: 222
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04de550a05a98d44dbf0d7f070517a4c
+      internalID: 1052146446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo
+        2_18
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 8920
+        width: 222
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7c8d98df605654e84bf7a0dfa996e8
+      internalID: 1911057224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo
+        2_19
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 8920
+        width: 222
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b064bf74a8544439613e8dcb6194f6
+      internalID: -2079773697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo
+        2_20
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 8919
+        width: 222
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97de1eba50afb7144ad7f17974884313
+      internalID: 1658215411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo
+        2_21
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 8919
+        width: 222
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9d55d4d2481d1409162f6afa80ca1e
+      internalID: 1864515138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo
+        2_22
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 8920
+        width: 221
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7698cc479d6cc3945b8b6a0fee507c0b
+      internalID: 854628973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo
+        2_23
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 8920
+        width: 222
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420c90420c6127241827d0e4f728b29a
+      internalID: -2119977410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo
+        2_24
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 8714
+        width: 222
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e84e1dafe8da7b41bc8d738c06f3a33
+      internalID: -396945722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo 2_0: 694059161
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo 2_1: -831023881
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo 2_10: 813742581
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo 2_11: 1744240570
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo 2_12: -852070492
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo 2_13: -353458381
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo 2_14: -535494701
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo 2_15: -1418433033
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo 2_16: -1141923019
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo 2_17: 1052146446
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo 2_18: 1911057224
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo 2_19: -2079773697
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo 2_2: 1653183994
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo 2_20: 1658215411
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo 2_21: 1864515138
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo 2_22: 854628973
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo 2_23: -2119977410
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo 2_24: -396945722
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo 2_3: 1959537279
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo 2_4: 394967810
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo 2_5: -1822441110
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo 2_6: 724811167
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo 2_7: 923264726
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo 2_8: 811551804
+      PC Computer - Touhou Hyouibana Antinomy of Common Flowers - Yukari Yakumo 2_9: -1055510865
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

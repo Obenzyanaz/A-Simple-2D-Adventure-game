@@ -1,0 +1,6322 @@
+fileFormatVersion: 2
+guid: 1085646f4ae289b47960dae190e9d3d2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SANS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 943
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7447649da2acf84498299be22f7b0d6
+      internalID: 32986258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 943
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3256d7ed8563eea43845a54d9b1a6794
+      internalID: -1319717399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_2
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 943
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9d71d9e067a8240aca16ee6b2195c6
+      internalID: 899665129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_3
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 943
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b4b23f9c432cf428e4836bd2dc8a06
+      internalID: 883846808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 943
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ce5f7197000844da623d927df3ab42
+      internalID: 200333083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 943
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c25682b491e8b45ab2219f9fbc1cd4
+      internalID: -1129582273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 943
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeae567c62d7b6649bf8c7f7e7e17cd0
+      internalID: 704120011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_7
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 943
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9758d98748a008c46a52c6e79c15a27b
+      internalID: -1411380666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 943
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc84667e6bfafb468b87f4ba9abcd93
+      internalID: -1201826527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 944
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac3a91b36ffa6a49b5eadad2a9285f2
+      internalID: 750781564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 944
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea188ce95f0919942b08c86fb4ca6794
+      internalID: -1033470022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 944
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f585b4f001d899c4a8e7b6a8b786d18d
+      internalID: 200249458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_12
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 944
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e148f50459060f4428784f2d78060981
+      internalID: 1368623990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 944
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567785dca1f41c9499f4c84f34c16b5a
+      internalID: -927494035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_14
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 942
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395e2a3707de2a2438c99fd5904cca1c
+      internalID: 1296565489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_15
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 944
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd416e84223278447bac0f5f7596e279
+      internalID: 1759167450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 944
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60f7709ad809704aa40e131a6c96546
+      internalID: -1891861472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 944
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7ab94beb3b6ee4198b31b73e6c1388
+      internalID: 1075392850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 906
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc923a61d1b1a94e86336b8cc6496c9
+      internalID: 973962854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_19
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 905
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8242ee3986fb7946b9f05fb356c5984
+      internalID: -1924993774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_20
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 906
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0606f20566b2bd746835e28822bea0b9
+      internalID: 1579829130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_21
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 905
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db17b51cf73a3143b403c2dc41ec151
+      internalID: -797983069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_22
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 906
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41291132bd0822747bb6536e2067ffb8
+      internalID: 757959190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_23
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 892
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed47d81a4722d24683c8d5afa884256
+      internalID: -425926644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_24
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 892
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd3fd07979751945afad3e000b154b1
+      internalID: -1320082359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 892
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff62c4723a391549b60c455a4e6b262
+      internalID: -2065556122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_26
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 892
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a86196a053f404a852836de66af43b
+      internalID: 553456519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_27
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 892
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea4474bb07851f44a7f1186b8faf101
+      internalID: 738228745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_28
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 892
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07792e8e0e3c8524aa64f72e8d61fe87
+      internalID: -1517547606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 855
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83afae43a17798646b426962d386cfdb
+      internalID: 724782657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 855
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efedf77a3bd4db4e933496952492517
+      internalID: 633762403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_31
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 855
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2aa1e8ce532f44c9c4c54e91ee505e
+      internalID: 1442200287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 855
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a154f7751930427408dc38cbc78e9e7e
+      internalID: -2078918841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_33
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 855
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fda6cc29b3344142ba10b42aa6f07c6
+      internalID: 64207742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_34
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 855
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92ff48d62fd554449d72e84dd64e8fc
+      internalID: 1755402684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_35
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 855
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54661c7248e585e43a0ee42ca8e0abf3
+      internalID: 165010928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_36
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 855
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effa7a675b66a094bbf14be513d6485f
+      internalID: 1692067501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 841
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea79a965eb8b13c4387e3c5f0327f91f
+      internalID: -666158337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_38
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 841
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d500a197047f32642aa5adabd316f4b9
+      internalID: 609232870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_39
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 841
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7a34fe9c3407c42941137a6e3814e7
+      internalID: 1450876900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_40
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 841
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f288d6aaec53f74db6f78a498594334
+      internalID: -1979943678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_41
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 841
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f9a50d178d14c468c6041210e49860
+      internalID: -932757634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 841
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6acb474ebe027141895373dbcc6acb1
+      internalID: -450859437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_43
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 841
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34de3ecb2bbfa264fa8af526b540298f
+      internalID: -918113987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_44
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 838
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cc27824ad95a44e8069c591d0a2ee7
+      internalID: -844793978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_45
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 841
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f4240f7d27df84aadca39af3aa0c79
+      internalID: -959885657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_46
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 841
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246124b7ec795864f9394c4e5784a5d3
+      internalID: 1724277930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_47
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 841
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b625a6dac52ca4cb1db07331d24760
+      internalID: 990748113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_48
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 841
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ca5a3e0c290b8489a5fe0cae8ad2b4
+      internalID: -1057677514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_49
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 841
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b051340b0077bc4bbfd2f33c5c8e5a6
+      internalID: -1974073308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_50
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 841
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f9b5ce17e75c24bb386dc310bee7a4
+      internalID: 411210697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_51
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 841
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23464c5a582951241ad5fcfa16e4ca49
+      internalID: -1543783653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_52
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 841
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae25dfd0beb4474bb823d7d2b39197e
+      internalID: -361866517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_53
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 841
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30231c9291dd1354bacb176f81d04523
+      internalID: -2051568591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_54
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 841
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ad0d51eac5ca647af144aecf40b7ae
+      internalID: 307113574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_55
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 838
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df548ad8256371f458c3c91fad2e0e0d
+      internalID: -391050024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 841
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b912680e33a3046a55a69cefd42311
+      internalID: 574086650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_57
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 841
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d1a87803d128141b0e5ee4d1a934e1
+      internalID: -940144962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_58
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 804
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9c0599b47856948b6852f4f8245599
+      internalID: -1193934643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 804
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343506b0816b561499182c29d1162578
+      internalID: 1948890623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_60
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 804
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9d0d52434def64c81b830a92a9733f
+      internalID: 102880751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_61
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 804
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7ee3901704b2e46926301c0a5230fc
+      internalID: 1482478777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_62
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 804
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ec96a5d9af2794c894ae7d2a18e9cc
+      internalID: 2118774621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_63
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 804
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c27007a8900f742bdcfd8d0dab1f90
+      internalID: 17176218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_64
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 804
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06986697bf1e6fc4ea25b60721038691
+      internalID: 2021410351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_65
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 804
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966f57f892adcf24885df3280bbd7ed7
+      internalID: 1060186564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 790
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c0178fc476df8468691a13ebc9a80a
+      internalID: 930283497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_67
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 790
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30927dcbba82b5439d2c8d9edbbc1e7
+      internalID: -1453430939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_68
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 790
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a509eee81c2e9fd468d71ac9d6fbb592
+      internalID: -437863280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_69
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 790
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e598bcd0d80ba094fbf8ea6bff370675
+      internalID: -1471775025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_70
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 790
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db59fbd30846b14584c62bba9bd7282
+      internalID: 717816296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_71
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 790
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acde6b31a58b4a1408c7421b751d3c87
+      internalID: -790553329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_72
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 787
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f496d9f093ff64dbe3cf3e5cd67fee
+      internalID: -227864055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_73
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 753
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7e5a47ac7cc254f9b0e235dd291324
+      internalID: -1390088631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_74
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 752
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37c84f00de9aec48a3b1784fe85bb7b
+      internalID: -1151213930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_75
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 753
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d577efce2e9c3a94491a4d18c90e13f1
+      internalID: 795696531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_76
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 752
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dbf22653a86ff47ae347348a33d251
+      internalID: 575970221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 739
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3633842b0f9fbef4a8265670ecfb94ba
+      internalID: -1619231933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_78
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 739
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cad04df94b2e44186f4d3109785043
+      internalID: 999436542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_79
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 739
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4321d93f555a8ac45a51f01fd4fb23ac
+      internalID: -352214667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_80
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 739
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b2b76f6b1c11c409838feb68908a94
+      internalID: 636284484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_81
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 739
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05036dd95157724a894228ecb82abe4
+      internalID: -93042354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_82
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 739
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baca8526c4edcea43897f06e23ca3235
+      internalID: -1837613306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_83
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 739
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f8f6b29537a754d80fc9da50301cc3
+      internalID: -1527606173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_84
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 739
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ab51a33187ea24ba29e6dffec3b1a0
+      internalID: -1612386188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_85
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 739
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd12a36cc19bd24f8dbdf745d0f8d80
+      internalID: -1802335073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_86
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 702
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131d7c1da82014647a41e8802446de24
+      internalID: -1264869762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_87
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 702
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6d513f1c6aaf8448b6d8f50bca7378
+      internalID: -784604008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_88
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 702
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df99467bca9eafc47b4b3cb0f07540bc
+      internalID: 980155521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_89
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 702
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83b1d41f28c8e549b4d86ca33f6c706
+      internalID: 1291753603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d62c885a52a1d4c8dd887f82d17cdc
+      internalID: -1426076598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_91
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 688
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c643bdbad73ca479626dfa586d5a38
+      internalID: 1435372416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_92
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 688
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f76909de3507d41935429432c45f82
+      internalID: -433223366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_93
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 688
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dcec2d3f65c7a4882b8069875e8a0d
+      internalID: 1263779115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_94
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 685
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016bc287c6e28234c825d5c8f0be98bb
+      internalID: 1969700367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_95
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 651
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19c091271e6dc94e93672c136c7e1cf
+      internalID: 1146971997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_96
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 651
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d7896e671e461449c333cf0db76e51
+      internalID: 1469100763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 637
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ac47dae5ea1564186a7c1be4f3ff36
+      internalID: -2004473942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_98
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 637
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1691ce3707288814995b034e5bfd0500
+      internalID: 215553877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_99
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 637
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d717281b90dc03468be41d072ff6d3a
+      internalID: -1547026137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_100
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 637
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7741e72cad44dee4e900863f5dca5297
+      internalID: 1659386226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_101
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 637
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c795dd4019db1f64abe78523e5d11099
+      internalID: 1871759865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_102
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 637
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce011659339a62c4a8774efab494bd0f
+      internalID: 927242046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_103
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 637
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e416870712df434193ccd3f3276ca97
+      internalID: 1563040411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_104
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 637
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ed0b5601c4f0e47a36d3837d92796f
+      internalID: -1375717856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 601
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a24b7a03a1ecd6448c5297054c6d194
+      internalID: 1257131650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_106
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 601
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b538793efa5614fb1e1bfd0c50ab8a
+      internalID: -1212251643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 586
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6b4d2227ef033458d051953330d152
+      internalID: -68101541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_108
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 586
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a7b7d8fdd04db479354867d5703b1c
+      internalID: -732651215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_109
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 586
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c3c427dc3c75c498f00fc22fff4fa4
+      internalID: 620322552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_110
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 586
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc23c34da474e34f80b460c597323cc
+      internalID: 996373580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_111
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 586
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9769a437bea7648919d6c5d5b9066b
+      internalID: -63792272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b95cb4b1d7ac3f478c4efd7254669bf
+      internalID: -1247995880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_113
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 543
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ebfea3d65d8f54ca7411bd83e7ea49
+      internalID: 191390419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 530
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2405e2c2ca872459ac150c08b24c6e
+      internalID: 920580528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_115
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 530
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950de139706363d48b3270b7df94b9d5
+      internalID: -1014550841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_116
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 530
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c83cd5ef62769a40a916b5e3239b6f9
+      internalID: -1979548708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_117
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 530
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505fd570e4e720543bc3013fd2871e7f
+      internalID: -510549859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_118
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 530
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584fc37e99d4e39428a43ddd46e270ce
+      internalID: 1747903062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_119
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 530
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10607934a63afe94eae40088125f6792
+      internalID: 2140001840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_120
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 530
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ad4abb976fa27458b849451af93661
+      internalID: 345165950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_121
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 530
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503fcea05aeacc44abf2b43fd30d92ab
+      internalID: 1043132907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_122
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 530
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227b714d9f7094a4dbdb996d89687a5b
+      internalID: -522231030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 487
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2846cba5cddeb46995c70fbccb93cc
+      internalID: 1743243980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_124
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 487
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c57b2dfa2c5ae4fa64e684bd49f87a
+      internalID: 1255268585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_125
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 487
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a4261d8296070448bb3f451f07aa02
+      internalID: 1829300693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8221a67782110f94d81ea20bb0e387e9
+      internalID: -277549374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_127
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 474
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b0a1e4fb8dc7d4493db054c1874974
+      internalID: 2145188339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_128
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 474
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0f6cdba6c568441a2de05533c73072
+      internalID: 1678749473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_129
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 474
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88362c517d4be7e458f76c668d8e8403
+      internalID: 1954188390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_130
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 474
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a3049d923d199419b0d9d7673cd556
+      internalID: 102893355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_131
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 474
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8accc08e090c6b45a2419a11e9c01b6
+      internalID: 596374333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_132
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 474
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf7534477d25354494c64a2b46bd9e3
+      internalID: -748335757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_133
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 474
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62acee75f5cbd7941a380bea04ab9343
+      internalID: -427079572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_134
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 471
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47547897254c86b459aa8db35b550048
+      internalID: -12469094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_135
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 431
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b7a379c8818d54490fcc08cee1b392
+      internalID: 341690658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_136
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 431
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2de65b04bca9b4aa0c6130b813f410
+      internalID: 1881442474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_137
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 431
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b73c0689f61414498a918464109a860
+      internalID: 317778174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_138
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 431
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c07e0d2dc65eb4b88523a24246a878
+      internalID: -1496244131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_139
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 431
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a36a0dd422c6bb47b89770fe4256cff
+      internalID: 289880212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_140
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 431
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e63b9006b5b6542b83311b7b68c450
+      internalID: -900114272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_141
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 431
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461d46d2fc870024b85fefadecfea34b
+      internalID: 1671897802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_142
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 431
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f500cc97deb214a916b25dedcb283a
+      internalID: 1355774348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_143
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 431
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc4684cae229584d8c65d333f62e401
+      internalID: -337002066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_144
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 431
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d844b24ac1f127843a4eb20686d9e3a0
+      internalID: 943007106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05751e0e8dc0e24438e4f46cb22b5d83
+      internalID: 2054244868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_146
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 418
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa980fe3ab152a7479badbcf83385ebf
+      internalID: 1142985563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_147
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 418
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4628189570023479b1464bce8d5190
+      internalID: 493078615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_148
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 418
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4c0ad1150b7244a8b30617cff7e434
+      internalID: -348642003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_149
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 418
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720ebf87a86115d4bb2dfd78d0235723
+      internalID: -1613637565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_150
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 418
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bac0f45d86c20c49bb0df62d3caeebc
+      internalID: 675658102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_151
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 418
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6998d190eb6587c4c9b8d49aef7b49d4
+      internalID: -2067686414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_152
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 418
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464bc903f39850e40b9f17e211e8e4ff
+      internalID: -336078078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_153
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 418
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa9408ca8f61b5448699a74d0fa407b
+      internalID: -2117375117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_154
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 418
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335392897cb5a83429bf175b849d6538
+      internalID: -2144170926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_155
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 418
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e589d5fd15cc6f844b306a089efc41d9
+      internalID: -1320537734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_156
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 418
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41c221b938f4484e91acdb4c47c2b12
+      internalID: -1498630534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_157
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 418
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c21a6fd05947db43bfad7f30da06344
+      internalID: -1198393582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_158
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 418
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6b6c1cc9a06f84e831ece42d839beb
+      internalID: 1907911634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_159
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 418
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1cb2d624b683c45bb8503b08ba7850
+      internalID: -1776525964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_160
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 418
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c292802451c2c34c9a287c6bc609c64
+      internalID: 2069235837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50603f76213d3af40aadf6f01b69ffc6
+      internalID: 559119258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_162
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 375
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eed9cd83740bce42b1a4f621ff80e88
+      internalID: 1596066211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_163
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d7addf70d7d244c9952c4e9eb0fe7d
+      internalID: -1107055012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_164
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 362
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26289fa413787a14383f8af58d5398a1
+      internalID: 642658564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_165
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 362
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5f2f1baec14df488ebb1c22beac6d9
+      internalID: -93304673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_166
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 362
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbb32b778b1d1b4db2addc1bdd2e9f6
+      internalID: -1685696075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_167
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 359
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376289fc603816f44bd1cedfb78bdf81
+      internalID: 1506901230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_168
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 325
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f493cbe2b88d0418fa73b27261ceeb
+      internalID: 1463451767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_169
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 325
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629496bb12edd3b43bd30d1eaa5df129
+      internalID: 1727652442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efd18f0b09b6b24e9cb196780badd2e
+      internalID: -749962195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_171
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 311
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a55d450dec583c428efaec89ab78962
+      internalID: -726819077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_172
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 311
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9022058a41deef747a6513fae802bf92
+      internalID: 2139380300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_173
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 311
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9edd4a72ad6164eb6c77e7db879725
+      internalID: -2111548888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_174
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 311
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d44502c7c8abad41ad82a7bb4a58f80
+      internalID: 1427120860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_175
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 311
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d544d818acb454b4d947676941fbccca
+      internalID: -1903326506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_176
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 311
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb67119e8185e840b137b0aac5a803a
+      internalID: -141543383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_177
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 311
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa025308d2bc744f8db337576b41a52
+      internalID: 186663353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_178
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 311
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118fc9e7044f75045a9bc2e766a79070
+      internalID: -39235638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_179
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 311
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a57da86c6b745c4baa9619aab80c6c7
+      internalID: 1983178298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_180
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 311
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103f065d94d6d3c47a741b2e40d47f9e
+      internalID: -2115684685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_181
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 311
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59ca91548c64234793511466c4253a7
+      internalID: 647420339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_182
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 311
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1f32730ff059f4c8e938ae5bb5d914
+      internalID: 511350576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_183
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 311
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65513d9e28145ac44890879b917222eb
+      internalID: 613752465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_184
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 268
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2d411f586775742bc85bae2a649411
+      internalID: 963711256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_185
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 268
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b9560d28cf9184fbe3eacd75942d49
+      internalID: 220307041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_186
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 268
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261edcf11832c5b4cb5add66c333b52b
+      internalID: 155730843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_187
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 268
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8741daea048913f4ebb5d4ee33f85fa5
+      internalID: -140872899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_188
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823474d5c78cead4a8909327fe7b27bf
+      internalID: -467637127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_189
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 254
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f6f63d3bee7184191e67097930287e
+      internalID: 200991106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_190
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 254
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b4d17c5af15c7429d9126fe0f5f5f7
+      internalID: 810861224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_191
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 254
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005f9ae92978c9b42bc73211ab4dd5e2
+      internalID: -1325470142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_192
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 255
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772e28e835db86a4ba0b873437267526
+      internalID: -222736444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_193
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 254
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c197e45cd9f30f4b8c91b1749f0a607
+      internalID: -649162833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_194
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 217
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d764385b0d267114fb9e7c9734181cec
+      internalID: -867130239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_195
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 217
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61a17c1b6bc3fc499917613eb53d43c
+      internalID: -818315070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6044d93ada705b4e943e6552350c857
+      internalID: 1078713148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_197
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 203
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a59b36aef73e14ca4e532691c0d94c
+      internalID: 1751678544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_198
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 203
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6854b5b41b4d5419800f6ca6167c35
+      internalID: 248708273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_199
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 203
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0721dd62f919fca44a5eb7948066a476
+      internalID: 974693139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_200
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 203
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1a11146634e5f478723e2793c33cb1
+      internalID: -455047641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_201
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 203
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e626b7270aa6b99468652c446930e65a
+      internalID: -896144818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_202
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 203
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0edf29629fddf64caedfeb653237e3a
+      internalID: 1792575097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_203
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 203
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497b5fc5cd6cce0429f508d26ab9d4eb
+      internalID: -228035516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_204
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 203
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53588ecc3b446824c864c0514ed233c8
+      internalID: -106315270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_205
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 203
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dc5adbad9e21a43bb68d9724bfc9e9
+      internalID: 251043577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_206
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 203
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab0b7b4d75382148a9b6efff1701549
+      internalID: 23044290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_207
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 203
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1ab834172abb54780a777f2f44ca75
+      internalID: 1013188730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_208
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 200
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2382a9600ca91f84f991757d652a6d7d
+      internalID: 597405295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_209
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 203
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedb3db2a2d09ae48858b99ffa63f92d
+      internalID: 1256422287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8d113b47eb2a34d9bb2212203bccf2
+      internalID: 1590834017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_211
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 161
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81068ceac08fdb442852b8a5f425f7e5
+      internalID: -2097216351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_212
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345c983afd5604f40a905ec8ced81f36
+      internalID: 427210228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_213
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 146
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b21cdfbb6a5154dbe40a14649e4c31
+      internalID: -16658733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_214
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 146
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901da4e2f1f3c384091d846bc4011a77
+      internalID: -1866349946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_215
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 146
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efd8c93997f1c9458146f1ced264875
+      internalID: 836055545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_216
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 146
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7613d74e22206e943a061ca621f926ff
+      internalID: 54314172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_217
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 146
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d1e7861368e8045a3c206d1b3259aa
+      internalID: 1463136735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_218
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 146
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abea959725c9eb4b9233ab31b3a54cc
+      internalID: 1706659726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_219
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 146
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6b23cb70c7d554a96348c545c6df82
+      internalID: 738081112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_220
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 146
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be748bd7ba1d6f42bf1ab22f66576d1
+      internalID: 7688180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_221
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 146
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d9571923849eb4ebaea9df9ebaad59
+      internalID: -1625446394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_222
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 143
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d917c53fe997648a2cb79b5ab4c4a5
+      internalID: -815925243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_223
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 146
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243382f7ea4d5c54cb78d9ec05f8192f
+      internalID: -1852294744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_224
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 146
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a6ba95521927c4a8a9ce2609b96906
+      internalID: 1173613402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_225
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 146
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8743822b6404642807543301c361df
+      internalID: 869706916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_226
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 146
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e8264f43154f5419b5f5f777fec1ba
+      internalID: 2039407108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_227
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 146
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8684103650057cf44a29a379cfb605e2
+      internalID: 520517653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_228
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 146
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aabaf5e92ab6644d8aca5792ef4df2b
+      internalID: 1223707907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_229
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 143
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a0a5eb726b7ae4bbc37f3dd48cfb35
+      internalID: 268667991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_230
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 146
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d104337e0883e04f929df5215ac090b
+      internalID: 1542979772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_231
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 146
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c09237019041e41885ce6316fa4ce6
+      internalID: 738552723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_232
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 146
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2727d93b5f89d2547b420e143c5e2442
+      internalID: -1655530249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_233
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 146
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c430a0e466f7d478fd5b83b329bb7a
+      internalID: 576235812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_234
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 146
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05628ba610f37aa458ee57e5faca6960
+      internalID: -1381653673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_235
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 146
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103ed54223cb25c40bed7cf9b54a2c66
+      internalID: -750677636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_236
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 146
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0830479f69d9cc2428494f6ecdc25df5
+      internalID: 1236652848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_237
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 146
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9e2e66e28376848a4c29fabe3bacf6
+      internalID: -570231205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_238
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3c1d12439ed4d45ab07a67a1173ca7
+      internalID: -996856024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_239
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 113
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9f90e965f68e54792985bdad7b5f5f
+      internalID: -724135240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75040285e262173458b0580741e5290e
+      internalID: 1747420704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_241
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052598e57736a7e4a9ce691be654983a
+      internalID: -122959293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_242
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb294bb95582834a81140c73d9f4721
+      internalID: 2027002980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_243
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 92
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db106aaead931a3489efe5750af111ef
+      internalID: -561418797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_244
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 95
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b2331b52c96754faa3bf1461fb1fba
+      internalID: 1016228495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_245
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 95
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c033e9dc14e35f4e8fe8491213418cd
+      internalID: 1223360816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_246
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 95
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3502c8696e9691541a58194e2abd80fe
+      internalID: -1070173266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_247
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 95
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4abf5d069901046b733355ac7d6f0b
+      internalID: -367445363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_248
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 95
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dce57345905bb6458bf5fc284f3342a
+      internalID: -1176243702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_249
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 95
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23269b5b2c81971489d2b916b900a461
+      internalID: 1012198891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_250
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 95
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acbb1b06d388584c9a0e9c1155b5608
+      internalID: -439642081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_251
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 95
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9648300bea00cbf498c9341efe761aee
+      internalID: 1273934929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_252
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 95
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706e1c17bdeee7d41a3c247dd37b01b5
+      internalID: 1327941008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_253
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 58
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b5cdf4e83a99d4180085f37fd9bc9c
+      internalID: -15661458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_254
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 58
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0539c9fa10d85f547896b30b0ac24b69
+      internalID: 595594162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_255
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c875b924634654c45b02b3922a7bb5e3
+      internalID: -113114999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_256
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 44
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6b0d71ccda2144f8b56e50a1b2cb27
+      internalID: 1987101937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_257
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 44
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196b130c5afd2df44b23ff15e87d3018
+      internalID: -483136462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_258
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 44
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabc29aa95973ee46a99b5d7d4ff0da0
+      internalID: 223384585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_259
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 44
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b49b52168f6bc246a6764934ef1a6e7
+      internalID: 1189283489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_260
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 44
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76872a6e2766894a99a48cf428f3e68
+      internalID: -905399197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_261
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 44
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca53962de0b603429865c1b95d90069
+      internalID: -1115455772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_262
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 44
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe394a40d1397443bc50f433d02bbfb
+      internalID: 1103623151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_263
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 44
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e32a2ba5ae9df4b88b94b6cf9959e0
+      internalID: 329712570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_264
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 44
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0292bc31560534428c66eb85c76bec0
+      internalID: 404733472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_265
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 44
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb72beceab469174d85df1478fa455e4
+      internalID: -230621724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_266
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 44
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1906aad5434beb34bae8145cbd978c9d
+      internalID: 282495293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_267
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 44
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1921c0de323adbf43934b14fb0cdc2ed
+      internalID: 1170174586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_268
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 44
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4122e52c52ca9ae4f9d7e3d6dabc46d7
+      internalID: 1042240167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_269
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 44
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cefc45303aab54fb951de9d118b0bd
+      internalID: -196308376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_270
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 44
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1cdd41595e3514a84109e46a405d1a
+      internalID: 2115208839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_271
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2741afb361738e44afe03258d5de133
+      internalID: 809631945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_272
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 7
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e99acc2281c8df4b83964fd3ce258a5
+      internalID: 1771110408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_273
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 7
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c312b07175b3e4c9c95530d7b28696
+      internalID: -304571039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_274
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 7
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d8afa6ce639894885765651635f12b
+      internalID: -1704493209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_275
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 7
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d470d1014fba9f94384df98a74b76500
+      internalID: 712156405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_276
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 7
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bcaa05215f6e84f84728080259d465
+      internalID: 878221346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_277
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 7
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757c1785d364ce445ae7b854a3fb6e0e
+      internalID: 135293317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_278
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 7
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a052d5c0160726a4cae6c42bcadc3803
+      internalID: 1728868995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_279
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 7
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2bc3fcdcd40fa48b3cc594e2e90414
+      internalID: -630061584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SANS_280
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 7
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdddd875b9be15459b4e7729a1833a8
+      internalID: -53261690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SANS_0: 32986258
+      SANS_1: -1319717399
+      SANS_10: -1033470022
+      SANS_100: 1659386226
+      SANS_101: 1871759865
+      SANS_102: 927242046
+      SANS_103: 1563040411
+      SANS_104: -1375717856
+      SANS_105: 1257131650
+      SANS_106: -1212251643
+      SANS_107: -68101541
+      SANS_108: -732651215
+      SANS_109: 620322552
+      SANS_11: 200249458
+      SANS_110: 996373580
+      SANS_111: -63792272
+      SANS_112: -1247995880
+      SANS_113: 191390419
+      SANS_114: 920580528
+      SANS_115: -1014550841
+      SANS_116: -1979548708
+      SANS_117: -510549859
+      SANS_118: 1747903062
+      SANS_119: 2140001840
+      SANS_12: 1368623990
+      SANS_120: 345165950
+      SANS_121: 1043132907
+      SANS_122: -522231030
+      SANS_123: 1743243980
+      SANS_124: 1255268585
+      SANS_125: 1829300693
+      SANS_126: -277549374
+      SANS_127: 2145188339
+      SANS_128: 1678749473
+      SANS_129: 1954188390
+      SANS_13: -927494035
+      SANS_130: 102893355
+      SANS_131: 596374333
+      SANS_132: -748335757
+      SANS_133: -427079572
+      SANS_134: -12469094
+      SANS_135: 341690658
+      SANS_136: 1881442474
+      SANS_137: 317778174
+      SANS_138: -1496244131
+      SANS_139: 289880212
+      SANS_14: 1296565489
+      SANS_140: -900114272
+      SANS_141: 1671897802
+      SANS_142: 1355774348
+      SANS_143: -337002066
+      SANS_144: 943007106
+      SANS_145: 2054244868
+      SANS_146: 1142985563
+      SANS_147: 493078615
+      SANS_148: -348642003
+      SANS_149: -1613637565
+      SANS_15: 1759167450
+      SANS_150: 675658102
+      SANS_151: -2067686414
+      SANS_152: -336078078
+      SANS_153: -2117375117
+      SANS_154: -2144170926
+      SANS_155: -1320537734
+      SANS_156: -1498630534
+      SANS_157: -1198393582
+      SANS_158: 1907911634
+      SANS_159: -1776525964
+      SANS_16: -1891861472
+      SANS_160: 2069235837
+      SANS_161: 559119258
+      SANS_162: 1596066211
+      SANS_163: -1107055012
+      SANS_164: 642658564
+      SANS_165: -93304673
+      SANS_166: -1685696075
+      SANS_167: 1506901230
+      SANS_168: 1463451767
+      SANS_169: 1727652442
+      SANS_17: 1075392850
+      SANS_170: -749962195
+      SANS_171: -726819077
+      SANS_172: 2139380300
+      SANS_173: -2111548888
+      SANS_174: 1427120860
+      SANS_175: -1903326506
+      SANS_176: -141543383
+      SANS_177: 186663353
+      SANS_178: -39235638
+      SANS_179: 1983178298
+      SANS_18: 973962854
+      SANS_180: -2115684685
+      SANS_181: 647420339
+      SANS_182: 511350576
+      SANS_183: 613752465
+      SANS_184: 963711256
+      SANS_185: 220307041
+      SANS_186: 155730843
+      SANS_187: -140872899
+      SANS_188: -467637127
+      SANS_189: 200991106
+      SANS_19: -1924993774
+      SANS_190: 810861224
+      SANS_191: -1325470142
+      SANS_192: -222736444
+      SANS_193: -649162833
+      SANS_194: -867130239
+      SANS_195: -818315070
+      SANS_196: 1078713148
+      SANS_197: 1751678544
+      SANS_198: 248708273
+      SANS_199: 974693139
+      SANS_2: 899665129
+      SANS_20: 1579829130
+      SANS_200: -455047641
+      SANS_201: -896144818
+      SANS_202: 1792575097
+      SANS_203: -228035516
+      SANS_204: -106315270
+      SANS_205: 251043577
+      SANS_206: 23044290
+      SANS_207: 1013188730
+      SANS_208: 597405295
+      SANS_209: 1256422287
+      SANS_21: -797983069
+      SANS_210: 1590834017
+      SANS_211: -2097216351
+      SANS_212: 427210228
+      SANS_213: -16658733
+      SANS_214: -1866349946
+      SANS_215: 836055545
+      SANS_216: 54314172
+      SANS_217: 1463136735
+      SANS_218: 1706659726
+      SANS_219: 738081112
+      SANS_22: 757959190
+      SANS_220: 7688180
+      SANS_221: -1625446394
+      SANS_222: -815925243
+      SANS_223: -1852294744
+      SANS_224: 1173613402
+      SANS_225: 869706916
+      SANS_226: 2039407108
+      SANS_227: 520517653
+      SANS_228: 1223707907
+      SANS_229: 268667991
+      SANS_23: -425926644
+      SANS_230: 1542979772
+      SANS_231: 738552723
+      SANS_232: -1655530249
+      SANS_233: 576235812
+      SANS_234: -1381653673
+      SANS_235: -750677636
+      SANS_236: 1236652848
+      SANS_237: -570231205
+      SANS_238: -996856024
+      SANS_239: -724135240
+      SANS_24: -1320082359
+      SANS_240: 1747420704
+      SANS_241: -122959293
+      SANS_242: 2027002980
+      SANS_243: -561418797
+      SANS_244: 1016228495
+      SANS_245: 1223360816
+      SANS_246: -1070173266
+      SANS_247: -367445363
+      SANS_248: -1176243702
+      SANS_249: 1012198891
+      SANS_25: -2065556122
+      SANS_250: -439642081
+      SANS_251: 1273934929
+      SANS_252: 1327941008
+      SANS_253: -15661458
+      SANS_254: 595594162
+      SANS_255: -113114999
+      SANS_256: 1987101937
+      SANS_257: -483136462
+      SANS_258: 223384585
+      SANS_259: 1189283489
+      SANS_26: 553456519
+      SANS_260: -905399197
+      SANS_261: -1115455772
+      SANS_262: 1103623151
+      SANS_263: 329712570
+      SANS_264: 404733472
+      SANS_265: -230621724
+      SANS_266: 282495293
+      SANS_267: 1170174586
+      SANS_268: 1042240167
+      SANS_269: -196308376
+      SANS_27: 738228745
+      SANS_270: 2115208839
+      SANS_271: 809631945
+      SANS_272: 1771110408
+      SANS_273: -304571039
+      SANS_274: -1704493209
+      SANS_275: 712156405
+      SANS_276: 878221346
+      SANS_277: 135293317
+      SANS_278: 1728868995
+      SANS_279: -630061584
+      SANS_28: -1517547606
+      SANS_280: -53261690
+      SANS_29: 724782657
+      SANS_3: 883846808
+      SANS_30: 633762403
+      SANS_31: 1442200287
+      SANS_32: -2078918841
+      SANS_33: 64207742
+      SANS_34: 1755402684
+      SANS_35: 165010928
+      SANS_36: 1692067501
+      SANS_37: -666158337
+      SANS_38: 609232870
+      SANS_39: 1450876900
+      SANS_4: 200333083
+      SANS_40: -1979943678
+      SANS_41: -932757634
+      SANS_42: -450859437
+      SANS_43: -918113987
+      SANS_44: -844793978
+      SANS_45: -959885657
+      SANS_46: 1724277930
+      SANS_47: 990748113
+      SANS_48: -1057677514
+      SANS_49: -1974073308
+      SANS_5: -1129582273
+      SANS_50: 411210697
+      SANS_51: -1543783653
+      SANS_52: -361866517
+      SANS_53: -2051568591
+      SANS_54: 307113574
+      SANS_55: -391050024
+      SANS_56: 574086650
+      SANS_57: -940144962
+      SANS_58: -1193934643
+      SANS_59: 1948890623
+      SANS_6: 704120011
+      SANS_60: 102880751
+      SANS_61: 1482478777
+      SANS_62: 2118774621
+      SANS_63: 17176218
+      SANS_64: 2021410351
+      SANS_65: 1060186564
+      SANS_66: 930283497
+      SANS_67: -1453430939
+      SANS_68: -437863280
+      SANS_69: -1471775025
+      SANS_7: -1411380666
+      SANS_70: 717816296
+      SANS_71: -790553329
+      SANS_72: -227864055
+      SANS_73: -1390088631
+      SANS_74: -1151213930
+      SANS_75: 795696531
+      SANS_76: 575970221
+      SANS_77: -1619231933
+      SANS_78: 999436542
+      SANS_79: -352214667
+      SANS_8: -1201826527
+      SANS_80: 636284484
+      SANS_81: -93042354
+      SANS_82: -1837613306
+      SANS_83: -1527606173
+      SANS_84: -1612386188
+      SANS_85: -1802335073
+      SANS_86: -1264869762
+      SANS_87: -784604008
+      SANS_88: 980155521
+      SANS_89: 1291753603
+      SANS_9: 750781564
+      SANS_90: -1426076598
+      SANS_91: 1435372416
+      SANS_92: -433223366
+      SANS_93: 1263779115
+      SANS_94: 1969700367
+      SANS_95: 1146971997
+      SANS_96: 1469100763
+      SANS_97: -2004473942
+      SANS_98: 215553877
+      SANS_99: -1547026137
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

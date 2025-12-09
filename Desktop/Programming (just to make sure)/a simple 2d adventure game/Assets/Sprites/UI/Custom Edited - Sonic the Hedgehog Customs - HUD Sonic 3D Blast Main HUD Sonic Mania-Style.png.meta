@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: 98009ca6b6670ff489a9b164fca8bdc4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - HUD Sonic 3D Blast Main
+        HUD Sonic Mania-Style_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 20
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b127033cafd9a4daf2ec840e18023d
+      internalID: 51794535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - HUD Sonic 3D Blast Main
+        HUD Sonic Mania-Style_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 20
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81909403edafc854c9b5f1b5e9ebeb1c
+      internalID: -1937220076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - HUD Sonic 3D Blast Main
+        HUD Sonic Mania-Style_2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 20
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c467793ccc958488c91fa555231b83
+      internalID: 2143660008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - HUD Sonic 3D Blast Main
+        HUD Sonic Mania-Style_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 20
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8177cdbd7f9500a48b115431b34e67b4
+      internalID: 1252497604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - HUD Sonic 3D Blast Main
+        HUD Sonic Mania-Style_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 20
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b9756d22645ce49abde224450f8977
+      internalID: -2130919222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - HUD Sonic 3D Blast Main
+        HUD Sonic Mania-Style_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 20
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d99025341da4f47bb5095cccae4014
+      internalID: -1999731261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - HUD Sonic 3D Blast Main
+        HUD Sonic Mania-Style_6
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 20
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d5b3caa8f656c4ab24fbce859c27f6
+      internalID: 1514495030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - HUD Sonic 3D Blast Main
+        HUD Sonic Mania-Style_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 20
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e384d1d870e22e4ea3f35f43e1b7945
+      internalID: 376945865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - HUD Sonic 3D Blast Main
+        HUD Sonic Mania-Style_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 20
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a830b77519962408e44040bef22384
+      internalID: -1526035201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - HUD Sonic 3D Blast Main
+        HUD Sonic Mania-Style_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 20
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfbf4c6ee2c14c40928e0e323429110
+      internalID: 965982334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - HUD Sonic 3D Blast Main
+        HUD Sonic Mania-Style_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac3d3afd50d5e34d95627bc4e4460ca
+      internalID: 772958381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - HUD Sonic 3D Blast Main
+        HUD Sonic Mania-Style_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5a53e1e5912ca47849810ab25d76ae
+      internalID: 1311654258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Sonic the Hedgehog Customs - HUD Sonic 3D Blast Main
+        HUD Sonic Mania-Style_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af2429419cd0cf4eb2576ff6fdd558b
+      internalID: 1670038597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Custom Edited - Sonic the Hedgehog Customs - HUD Sonic 3D Blast Main HUD Sonic Mania-Style_0: 51794535
+      Custom Edited - Sonic the Hedgehog Customs - HUD Sonic 3D Blast Main HUD Sonic Mania-Style_1: -1937220076
+      Custom Edited - Sonic the Hedgehog Customs - HUD Sonic 3D Blast Main HUD Sonic Mania-Style_10: 772958381
+      Custom Edited - Sonic the Hedgehog Customs - HUD Sonic 3D Blast Main HUD Sonic Mania-Style_11: 1311654258
+      Custom Edited - Sonic the Hedgehog Customs - HUD Sonic 3D Blast Main HUD Sonic Mania-Style_12: 1670038597
+      Custom Edited - Sonic the Hedgehog Customs - HUD Sonic 3D Blast Main HUD Sonic Mania-Style_2: 2143660008
+      Custom Edited - Sonic the Hedgehog Customs - HUD Sonic 3D Blast Main HUD Sonic Mania-Style_3: 1252497604
+      Custom Edited - Sonic the Hedgehog Customs - HUD Sonic 3D Blast Main HUD Sonic Mania-Style_4: -2130919222
+      Custom Edited - Sonic the Hedgehog Customs - HUD Sonic 3D Blast Main HUD Sonic Mania-Style_5: -1999731261
+      Custom Edited - Sonic the Hedgehog Customs - HUD Sonic 3D Blast Main HUD Sonic Mania-Style_6: 1514495030
+      Custom Edited - Sonic the Hedgehog Customs - HUD Sonic 3D Blast Main HUD Sonic Mania-Style_7: 376945865
+      Custom Edited - Sonic the Hedgehog Customs - HUD Sonic 3D Blast Main HUD Sonic Mania-Style_8: -1526035201
+      Custom Edited - Sonic the Hedgehog Customs - HUD Sonic 3D Blast Main HUD Sonic Mania-Style_9: 965982334
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

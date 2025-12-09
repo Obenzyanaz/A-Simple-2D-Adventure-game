@@ -1,0 +1,866 @@
+fileFormatVersion: 2
+guid: 55d4382a442ea6643978a9c104bd67bf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 282
+        width: 99
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa34639997277fe48987c3d01039c015
+      internalID: 212252378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 282
+        width: 101
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f859f9c543c44c24a9ddc6dc7980fad3
+      internalID: -121701302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 282
+        width: 105
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9938bdc9e37cc2440b24a9e31f01ecde
+      internalID: 394130098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_3
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 282
+        width: 106
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3779d4dd86f435d438927f11047e334c
+      internalID: -1629740240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_4
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 282
+        width: 122
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8a84ae854dcd74a92491223df7b4e2
+      internalID: 1464743319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_5
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 282
+        width: 140
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed38e7d295b1994783da4f047edf782
+      internalID: -689365531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_6
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 282
+        width: 134
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1188a6e057bad744c9036911dccd1038
+      internalID: 1114878025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_7
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 282
+        width: 145
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae73ab43cdd1e9243897e369058cfb3b
+      internalID: -634252111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_8
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 282
+        width: 145
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3013b57d1c77f844eb8412f433f47ff6
+      internalID: 1029500003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_9
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 282
+        width: 145
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a43002c70b4e46498805b468936b0d3
+      internalID: 744138807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_10
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 282
+        width: 202
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b71b224064b9e346b12d8e42f3fd937
+      internalID: -1696390556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_11
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 282
+        width: 132
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd8b75e0b456c141a185495305c1213
+      internalID: 553680255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_12
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 282
+        width: 119
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5498dcb983787a344a31b76825a97dfa
+      internalID: 866234655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_13
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 282
+        width: 97
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bba70f21d8d84440905839a396c259c
+      internalID: -1192620622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4641
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18365826f158c314db0976ad39589cff
+      internalID: -1820530056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 4641
+        width: 106
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077b51df484091a4fbfe20ee2ec57f52
+      internalID: 530046013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 4641
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdaba07048c023f4c9b788c68a481ff3
+      internalID: 1302668204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_17
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 4641
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ca41d7ac76b334982cec1dd3e1c0db
+      internalID: 1727514341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_18
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 4641
+        width: 104
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ea06e8ff640ea479266d2fd4902bc0
+      internalID: 1965672865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_19
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 4641
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009954d86dce06647b4c17897b738988
+      internalID: -2126331550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_20
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 4641
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07965be9c68d4549ba2a089769b9c5c
+      internalID: -1922078804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_21
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 4641
+        width: 106
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f914642366ee5a43bc3840fb35b6c3f
+      internalID: -178766809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_22
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 4641
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7801835e3869f845b9d4d6eef4d1198
+      internalID: -527236526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_23
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 4641
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a718ee9405a3343843960ad40a0a8d
+      internalID: 346997184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_24
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 4641
+        width: 104
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14ad6ef27c71074cadf5fca5d4ede85
+      internalID: 1138133577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_25
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 4641
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da00f948939c6654aa04549dfa27514a
+      internalID: -1759851267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_26
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 4641
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50597b51bb63bf64cb29d5acafbb3c3c
+      internalID: -1750379828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_27
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 4641
+        width: 106
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8aac6204e62cf43844c60946a23c45
+      internalID: -2017272839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_28
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 4641
+        width: 105
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e285a79e7c3414a9fc86acfd8d264f
+      internalID: 449498640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_29
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 4641
+        width: 105
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c432e8ad3e8034789cc4acdf778429
+      internalID: -782220396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_30
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 4641
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abb83f2ceacb174d84530d956c1bbc0
+      internalID: 2063447179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_31
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 4641
+        width: 105
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b02d7bcd3d962d4b909fe1be12440ef
+      internalID: 671101253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_32
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 4641
+        width: 105
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32d51b1cb3fc7d4fbdbd8863133cc29
+      internalID: -1904272240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_0: 212252378
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_1: -121701302
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_10: -1696390556
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_11: 553680255
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_12: 866234655
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_13: -1192620622
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_14: -1820530056
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_15: 530046013
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_16: 1302668204
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_17: 1727514341
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_18: 1965672865
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_19: -2126331550
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_2: 394130098
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_20: -1922078804
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_21: -178766809
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_22: -527236526
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_23: 346997184
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_24: 1138133577
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_25: -1759851267
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_26: -1750379828
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_27: -2017272839
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_28: 449498640
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_29: -782220396
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_3: -1629740240
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_30: 2063447179
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_31: 671101253
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_32: -1904272240
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_4: 1464743319
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_5: -689365531
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_6: 1114878025
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_7: -634252111
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_8: 1029500003
+      PC Computer - Touhou Hisoutensoku - Utsuho Reiuji_9: 744138807
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
