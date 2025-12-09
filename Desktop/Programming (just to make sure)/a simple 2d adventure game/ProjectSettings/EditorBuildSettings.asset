@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 1c03e10873c3f954fb8a141e61c39bda
+  - enabled: 1
+    path: Assets/Scenes/Mystia's Ikayaza.unity
+    guid: 5aa0e259b55cb4a4a8fdb57f00f82cea
+  - enabled: 1
+    path: Assets/Scenes/Gensokyo.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Desert.unity
+    guid: 6eb83e1c424967845948d41f7dfe3344
+  - enabled: 1
+    path: Assets/Scenes/MysticCave.unity
+    guid: 31f4500e353dff24d9e2d37d7d3da374
+  - enabled: 1
+    path: Assets/Scenes/Save.unity
+    guid: 92d26b394f276074a81e1bd815fede23
+  - enabled: 1
+    path: Assets/Scenes/Judgement Hall.unity
+    guid: 69429062b7317a746a3cfe5c87d7f62c
+  - enabled: 1
+    path: Assets/Scenes/Human Village.unity
+    guid: 66d43345cb6fd904d82e34a181570819
+  - enabled: 1
+    path: Assets/Scenes/Lost Library.unity
+    guid: 78dccd4831e212c40b92bb915d32a87d
+  - enabled: 1
+    path: Assets/Scenes/Scarlet Devil Mansion.unity
+    guid: 3c4956e915cff814796fd0f19eb9cb7e
+  - enabled: 1
+    path: Assets/Scenes/Dungeon boss fight.unity
+    guid: 60c2b9f35d6e9a1499d6c96b7b652625
+  - enabled: 1
+    path: Assets/Scenes/LoadingBar.unity
+    guid: e9792a6fc78add54b96700fe21e26eb5
+  - enabled: 1
+    path: Assets/Scenes/Difficulty Selection.unity
+    guid: 1f24f685bc03edd4791c4c3e355254fa
+  - enabled: 1
+    path: Assets/Scenes/Winter.unity
+    guid: e54306b009b16564990ee8c5da9fcc18
+  - enabled: 1
+    path: Assets/Scenes/ImpossibleStartLevel.unity
+    guid: 95a38c1313ef0114cad12b08cac6e8e9
+  - enabled: 1
+    path: Assets/Scenes/Neat Tutorial.unity
+    guid: f09a6c2c8a72ea644a2765315acba962
+  - enabled: 1
+    path: Assets/Scenes/Warm Lush Forest.unity
+    guid: a655aa0014da3db45a0cbf149ffd5875
+  - enabled: 1
+    path: Assets/Scenes/Story Menu.unity
+    guid: e90a82ff4e190374c9facf4f9657b041
+  m_configObjects: {}
